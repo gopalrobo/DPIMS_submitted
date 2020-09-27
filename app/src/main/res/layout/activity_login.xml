@@ -108,9 +108,12 @@
                         <ImageView
                             android:layout_width="fill_parent"
                             android:layout_height="40.0dip"
-                            android:layout_gravity="center"
+                            android:layout_gravity="bottom"
+                            android:layout_marginBottom="3dp"
                             android:layout_weight="1.75"
-                            android:src="@drawable/user" />
+                            android:padding="3dp"
+                            android:tint="@color/colorPrimary"
+                            android:src="@drawable/ic_account_circle_black_24dp" />
 
                         <android.support.design.widget.TextInputLayout
                             android:id="@+id/user"
@@ -124,9 +127,9 @@
                                 android:layout_width="fill_parent"
                                 android:layout_height="wrap_content"
                                 android:layout_gravity="center"
-                                android:hint="Username/Contact"
+                                android:hint="Email/Mobile#"
                                 android:inputType="textCapWords"
-                                android:text=""
+                                android:text="extension@mail.gov.af"
                                 android:textColorHint="#ffc6c6c6"
                                 android:textSize="18.0dip" />
                         </android.support.design.widget.TextInputLayout>
@@ -141,9 +144,12 @@
                         <ImageView
                             android:layout_width="fill_parent"
                             android:layout_height="40.0dip"
-                            android:layout_gravity="center"
+                            android:layout_gravity="bottom"
+                            android:layout_marginBottom="3dp"
                             android:layout_weight="1.75"
-                            android:src="@drawable/password" />
+                            android:padding="3dp"
+                            android:tint="@color/colorPrimary"
+                            android:src="@drawable/ic_lock_black_24dp" />
 
                         <android.support.design.widget.TextInputLayout
                             android:id="@+id/pass"
@@ -160,7 +166,7 @@
                                 android:layout_gravity="center"
                                 android:hint="Password"
                                 android:inputType="textPassword"
-                                android:text=""
+                                android:text="1234"
                                 android:textColorHint="#ffc6c6c6"
                                 android:textSize="18.0dip" />
                         </android.support.design.widget.TextInputLayout>
@@ -223,7 +229,7 @@
                         android:layout_marginLeft="5.0dip"
                         android:layout_marginRight="5.0dip"
                         android:layout_marginTop="5.0dip"
-                        android:text="Register"
+                        android:text=""
                         android:textColor="#444"
                         android:textSize="16.0sp"
                         />
@@ -243,7 +249,7 @@
                             android:backgroundTint="@color/viewBg"
                             android:gravity="center"
                             android:padding="5.0dip"
-                            android:text="Register"
+                            android:text="Register Farmer"
                             android:textSize="15.0dip"
                             />
 

@@ -5,8 +5,8 @@
     <dimen name="fab_margin">16dp</dimen>
     <dimen name="textsize">15dp</dimen>
     <dimen name="paddingimg">10dp</dimen>
-    <dimen name="custom_profile_image">50dp</dimen>
-    <dimen name="custom_profile_padding">2dp</dimen>
+    <dimen name="custom_profile_image">16dp</dimen>
+    <dimen name="custom_profile_padding">0dp</dimen>
 
     <dimen name="column_width">120dp</dimen>
     <dimen name="row_height">120dp</dimen>

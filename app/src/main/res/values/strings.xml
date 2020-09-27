@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">PWC FGD</string>
+    <string name="app_name">Smart DPIMS</string>
     <string name="select">Select</string>
     <string name="enter">Enter</string>
     <string name="selectable">selectable</string>
@@ -7,6 +7,13 @@
     <string name="date">date</string>
 
     <string name="slide_to_cancel">"Slide to cancel"</string>
+    <string name="spinner_title">Select Plot</string>
+    <string name="locationPermissionAlert">Please Enable this permission to identify  your breeds on the google map by other farmers</string>
+    <string name="action_settings" translatable="false">Settings</string>
+
+    <string name="text_dari" translatable="false">درى</string>
+    <string name="text_english" translatable="false">English</string>
+    <string name="text_pashto" translatable="false">"پښتو"</string>
 
 
 

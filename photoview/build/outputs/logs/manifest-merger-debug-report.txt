@@ -1,37 +1,37 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\interns\PWCFGD\photoview\src\main\AndroidManifest.xml:2:1-4:12
-INJECTED from D:\interns\PWCFGD\photoview\src\main\AndroidManifest.xml:2:1-4:12
-INJECTED from D:\interns\PWCFGD\photoview\src\main\AndroidManifest.xml:2:1-4:12
-INJECTED from D:\interns\PWCFGD\photoview\src\main\AndroidManifest.xml:2:1-4:12
-INJECTED from D:\interns\PWCFGD\photoview\src\main\AndroidManifest.xml:2:1-4:12
-INJECTED from D:\interns\PWCFGD\photoview\src\main\AndroidManifest.xml:2:1-4:12
-INJECTED from D:\interns\PWCFGD\photoview\src\main\AndroidManifest.xml:2:1-4:12
+ADDED from D:\AFI\AFIFGDMail\photoview\src\main\AndroidManifest.xml:2:1-4:12
+INJECTED from D:\AFI\AFIFGDMail\photoview\src\main\AndroidManifest.xml:2:1-4:12
+INJECTED from D:\AFI\AFIFGDMail\photoview\src\main\AndroidManifest.xml:2:1-4:12
+INJECTED from D:\AFI\AFIFGDMail\photoview\src\main\AndroidManifest.xml:2:1-4:12
+INJECTED from D:\AFI\AFIFGDMail\photoview\src\main\AndroidManifest.xml:2:1-4:12
+INJECTED from D:\AFI\AFIFGDMail\photoview\src\main\AndroidManifest.xml:2:1-4:12
+INJECTED from D:\AFI\AFIFGDMail\photoview\src\main\AndroidManifest.xml:2:1-4:12
 	package
-		ADDED from D:\interns\PWCFGD\photoview\src\main\AndroidManifest.xml:2:11-52
-		INJECTED from D:\interns\PWCFGD\photoview\src\main\AndroidManifest.xml
-		INJECTED from D:\interns\PWCFGD\photoview\src\main\AndroidManifest.xml
+		ADDED from D:\AFI\AFIFGDMail\photoview\src\main\AndroidManifest.xml:2:11-52
+		INJECTED from D:\AFI\AFIFGDMail\photoview\src\main\AndroidManifest.xml
+		INJECTED from D:\AFI\AFIFGDMail\photoview\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from D:\interns\PWCFGD\photoview\src\main\AndroidManifest.xml
-		ADDED from D:\interns\PWCFGD\photoview\src\main\AndroidManifest.xml:2:1-4:12
-		INJECTED from D:\interns\PWCFGD\photoview\src\main\AndroidManifest.xml
+		INJECTED from D:\AFI\AFIFGDMail\photoview\src\main\AndroidManifest.xml
+		ADDED from D:\AFI\AFIFGDMail\photoview\src\main\AndroidManifest.xml:2:1-4:12
+		INJECTED from D:\AFI\AFIFGDMail\photoview\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from D:\interns\PWCFGD\photoview\src\main\AndroidManifest.xml:2:1-4:12
+		ADDED from D:\AFI\AFIFGDMail\photoview\src\main\AndroidManifest.xml:2:1-4:12
 	android:versionCode
-		INJECTED from D:\interns\PWCFGD\photoview\src\main\AndroidManifest.xml
-		ADDED from D:\interns\PWCFGD\photoview\src\main\AndroidManifest.xml:2:1-4:12
-		INJECTED from D:\interns\PWCFGD\photoview\src\main\AndroidManifest.xml
+		INJECTED from D:\AFI\AFIFGDMail\photoview\src\main\AndroidManifest.xml
+		ADDED from D:\AFI\AFIFGDMail\photoview\src\main\AndroidManifest.xml:2:1-4:12
+		INJECTED from D:\AFI\AFIFGDMail\photoview\src\main\AndroidManifest.xml
 uses-sdk
-INJECTED from D:\interns\PWCFGD\photoview\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from D:\interns\PWCFGD\photoview\src\main\AndroidManifest.xml
-INJECTED from D:\interns\PWCFGD\photoview\src\main\AndroidManifest.xml
-INJECTED from D:\interns\PWCFGD\photoview\src\main\AndroidManifest.xml
-INJECTED from D:\interns\PWCFGD\photoview\src\main\AndroidManifest.xml
+INJECTED from D:\AFI\AFIFGDMail\photoview\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\AFI\AFIFGDMail\photoview\src\main\AndroidManifest.xml
+INJECTED from D:\AFI\AFIFGDMail\photoview\src\main\AndroidManifest.xml
+INJECTED from D:\AFI\AFIFGDMail\photoview\src\main\AndroidManifest.xml
+INJECTED from D:\AFI\AFIFGDMail\photoview\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from D:\interns\PWCFGD\photoview\src\main\AndroidManifest.xml
-		ADDED from D:\interns\PWCFGD\photoview\src\main\AndroidManifest.xml
-		INJECTED from D:\interns\PWCFGD\photoview\src\main\AndroidManifest.xml
+		INJECTED from D:\AFI\AFIFGDMail\photoview\src\main\AndroidManifest.xml
+		ADDED from D:\AFI\AFIFGDMail\photoview\src\main\AndroidManifest.xml
+		INJECTED from D:\AFI\AFIFGDMail\photoview\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from D:\interns\PWCFGD\photoview\src\main\AndroidManifest.xml
-		ADDED from D:\interns\PWCFGD\photoview\src\main\AndroidManifest.xml
-		INJECTED from D:\interns\PWCFGD\photoview\src\main\AndroidManifest.xml
+		INJECTED from D:\AFI\AFIFGDMail\photoview\src\main\AndroidManifest.xml
+		ADDED from D:\AFI\AFIFGDMail\photoview\src\main\AndroidManifest.xml
+		INJECTED from D:\AFI\AFIFGDMail\photoview\src\main\AndroidManifest.xml

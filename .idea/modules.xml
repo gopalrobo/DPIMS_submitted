@@ -2,11 +2,15 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/PWCFGD.iml" filepath="$PROJECT_DIR$/PWCFGD.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/circleimageview/circleimageview.iml" filepath="$PROJECT_DIR$/circleimageview/circleimageview.iml" />
-      <module fileurl="file://$PROJECT_DIR$/exoplayerview/exoplayerview.iml" filepath="$PROJECT_DIR$/exoplayerview/exoplayerview.iml" />
-      <module fileurl="file://$PROJECT_DIR$/photoview/photoview.iml" filepath="$PROJECT_DIR$/photoview/photoview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AFIFGDMail.iml" filepath="$PROJECT_DIR$/AFIFGDMail.iml" group="AFIFGDMail" />
+      <module fileurl="file://$PROJECT_DIR$/android-reactive-location/android-reactive-location.iml" filepath="$PROJECT_DIR$/android-reactive-location/android-reactive-location.iml" group="AFIFGDMail/android-reactive-location" />
+      <module fileurl="file://$PROJECT_DIR$/anychart/anychart.iml" filepath="$PROJECT_DIR$/anychart/anychart.iml" group="AFIFGDMail/anychart" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="AFIFGDMail/app" />
+      <module fileurl="file://$PROJECT_DIR$/circleimageview/circleimageview.iml" filepath="$PROJECT_DIR$/circleimageview/circleimageview.iml" group="AFIFGDMail/circleimageview" />
+      <module fileurl="file://$PROJECT_DIR$/exoplayerview/exoplayerview.iml" filepath="$PROJECT_DIR$/exoplayerview/exoplayerview.iml" group="AFIFGDMail/exoplayerview" />
+      <module fileurl="file://$PROJECT_DIR$/library-utills/library-utills.iml" filepath="$PROJECT_DIR$/library-utills/library-utills.iml" group="AFIFGDMail/library-utills" />
+      <module fileurl="file://$PROJECT_DIR$/photoview/photoview.iml" filepath="$PROJECT_DIR$/photoview/photoview.iml" group="AFIFGDMail/photoview" />
+      <module fileurl="file://$PROJECT_DIR$/timelineview/timelineview.iml" filepath="$PROJECT_DIR$/timelineview/timelineview.iml" group="AFIFGDMail/timelineview" />
     </modules>
   </component>
 </project>

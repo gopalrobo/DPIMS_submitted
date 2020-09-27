@@ -12,7 +12,7 @@
         android:layout_marginLeft="5dp"
         >
 
-        <com.smart.cst.pwcfgd.CustomFontEditText
+        <com.smart.cst.afimail.app.CustomFontEditText
             android:id="@+id/activity"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"

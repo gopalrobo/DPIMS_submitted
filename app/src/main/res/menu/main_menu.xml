@@ -3,6 +3,28 @@
     xmlns:app="http://schemas.android.com/apk/res-auto">
 
     <item
+        android:id="@+id/columnChart"
+        android:icon="@drawable/piechart"
+        android:title="Report"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/lineChart"
+        android:icon="@drawable/linegraph"
+        android:title="Report"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/upload"
+        android:icon="@drawable/upload_icon"
+        android:title="Upload"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/location"
+        android:icon="@drawable/location_marker"
+        android:title="Location"
+        app:showAsAction="always" />
+    <item
         android:id="@+id/editProfile"
         android:icon="@drawable/edit_profile"
         android:title="Edit Profile"

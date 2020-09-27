@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    tools:context="com.smart.cst.pwcfgd.MainActivityFGD">
+    tools:context="com.smart.cst.afimail.MainActivityFGD">
 
     <LinearLayout
         android:layout_width="match_parent"
@@ -84,7 +84,7 @@
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="5dp"
                         android:layout_marginTop="10dp"
-                        android:text="(Note to facilitator- “Promotion and Strengthening of FPOs as Business Startups in Andhra Pradesh”- PSFPOBS-AP) "
+                        android:text="(Note to facilitator)"
                         android:textAlignment="center"
                         android:textSize="15dp" />
 
@@ -102,14 +102,14 @@
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="5dp"
                         android:layout_marginTop="5dp"
-                        android:text="1. Call the contact points in village and ask seek their support to conduct the FGD"
+                        android:text="1. Call the contact points in village /CDC / Mirab and ask seek their support to conduct the FGD"
                         android:textSize="15dp" />
 
                     <TextView
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="5dp"
-                        android:text="2. Once time and venue is decided then call the HO/ADH and ask seek their support to conduct the FGD"
+                        android:text="2. Once time and venue is decided then call the Village/ CDC /Mirab Head and ask seek their support to conduct the FGD"
                         android:textSize="15dp" />
 
                     <TextView
@@ -126,14 +126,14 @@
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="5dp"
                         android:layout_marginTop="5dp"
-                        android:text="1.	Give a reminder call to government official and contact persons in village "
+                        android:text="1.	Give a reminder call to Village/ CDC /Mirab Head and contact persons in village "
                         android:textSize="15dp" />
 
                     <TextView
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="5dp"
-                        android:text="2. Invite the Government official to participate in meeting if possible"
+                        android:text="2. Invite the Village/ CDC /Mirab Head and farmers to participate in meeting if possible"
                         android:textSize="15dp" />
 
                     <TextView
@@ -165,7 +165,7 @@
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="5dp"
                         android:layout_marginTop="5dp"
-                        android:text="This focus group discussion is designed to assess your current thoughts and feelings about current practices and facilities available for production and marketing of Agri/Horti produce (Fruits and Vegetables- HVA) in your area. The focus group discussion will take around two hour. May I take the note of the discussion to facilitate its recollection? (If yes, start the writing)."
+                        android:text="This focus group discussion is designed to assess your current thoughts and feelings about current practices and facilities available Agriculture, Irrigation, Livestock and natural resources in your area. The focus group discussion will take around two hours. May I take the note/ voice record the discussion to facilitate its recollection? (If yes, start the writing / voice recording)."
                         android:textSize="15dp" />
 
                     <TextView
@@ -182,8 +182,8 @@
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="5dp"
                         android:layout_marginTop="5dp"
-                        android:text="Government of Andhra Pradesh has issued AP FPO policy in order to promote Agriculture as a viable business entity. The State Government as part of primary sector mission has formulated strategy for transforming Agriculture and allied activities into a viable business preposition with ultimate objective of increasing farmer’s income. As part of strategy the State Government has decided to promote Farmer Producer Organizations (FPO’s)/ Farmer Producer Companies (FPC’s) for reduction in the cost of cultivation and increased income through collective procurements of inputs and produce aggregation for better marketing.
-The overall objective will be to increase the contribution of the agri¬business sector to the State’s GDP substantially. To intensify and diversify market led production, improve farmer access to markets by promoting alternative markets, etc."
+                        android:text="Government of Afghanisthan has initiated the Decentralsied Planning Implementation and Monitoring with participation of the farmers. The Provincial and District Government primary mission is for transforming Agriculture and allied activities into a viable business preposition with ultimate objective of increasing farmer’s income. As part of strategy the Government has decided to promote decentralised planning to make planning relevant to you all.
+The overall objective will be to increase the production and contribute to the growth of agri¬business sector share to the National GDP substantially. To intensify and diversify market led production, improve farmer access to markets by promoting alternative markets, etc."
                         android:textSize="15dp" />
 
                     <TextView
@@ -200,7 +200,7 @@ The overall objective will be to increase the contribution of the agri¬business
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="5dp"
                         android:layout_marginTop="5dp"
-                        android:text="Despite notes being taken, we would like to assure you that the discussion will be anonymous. This note will be solely used for the purpose of taking decision for FPOs intervention in AP under Horticulture Department (RKVY- Rashtriya Krishi Vikas Yojana). The transcribed notes of the focus group will contain no information that would allow individual subjects to be linked to specific statements. You should try to answer and comment as accurately and truthfully as possible. I and the other focus group participants would appreciate it if you would refrain from discussing the comments of other group members outside the focus group. If there are any questions or discussions that you do not wish to answer or participate in, you do not have to do so; however please try to answer and be as involved as possible."
+                        android:text="Despite notes and voice record being gathered, we would like to assure you that the discussions recorded will be anonymous in the system. This will be solely used for the purpose of taking decision for MAIL intervention for Agriculture development. The transcribed notes of the focus group will contain no information that would allow individual subjects to be linked to specific statements. You should try to answer and comment as accurately and truthfully as possible. I and the other focus group participants would appreciate it if you would refrain from discussing the comments of other group members outside the focus group. If there are any questions or discussions that you do not wish to answer or participate in, you do not have to do so; however please try to answer and be as involved as possible."
                         android:textSize="15dp" />
 
                     <TextView
@@ -276,7 +276,7 @@ The overall objective will be to increase the contribution of the agri¬business
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="5dp"
                         android:layout_marginTop="5dp"
-                        android:text="This focus group discussion is designed to assess your current thoughts and feelings about current practices and facilities available for production and marketing of Agri/Horti produce (Fruits and Vegetables- HVA) in your area. The focus group discussion will take around two hour. May I take the note of the discussion to facilitate its recollection? (If yes, start the writing)."
+                        android:text="This focus group discussion is designed to assess your current thoughts and feelings about current practices and facilities available for agriculture production, irrigation, livesock, natural resoruces and marketing of Agri/Horti/ Livestock produce (Fruits and Vegetables) in your area. The focus group discussion will take around two hours. May I take the note of the discussion to facilitate its recollection? (If yes, start the writing/voice recording)."
                         android:textSize="15dp" />
 
                     <TextView
@@ -310,7 +310,7 @@ The overall objective will be to increase the contribution of the agri¬business
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="10dp"
-                        android:text="•	Your opinions will be a valuable asset to the study"
+                        android:text="•	Your opinions will be a valuable asset to the Decentralsied Planning"
                         android:textSize="15dp" />
 
                     <TextView
@@ -376,14 +376,15 @@ The overall objective will be to increase the contribution of the agri¬business
                     android:layout_marginLeft="5dp"
                     android:layout_marginTop="5dp">
 
-                    <com.smart.cst.pwcfgd.CustomFontEditText
+                    <com.smart.cst.afimail.app.CustomFontEditText
                         android:id="@+id/dateOfFGD"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:backgroundTint="@color/gray"
                         android:hint="Date of FGD"
                         android:textColorHint="#ffc6c6c6"
-                        android:textSize="15dp" />
+                        android:textSize="15dp"
+                        app:category="date"/>
                 </android.support.design.widget.TextInputLayout>
 
                 <LinearLayout
@@ -448,7 +449,7 @@ The overall objective will be to increase the contribution of the agri¬business
                     android:layout_marginLeft="5dp"
                     android:layout_marginTop="5dp">
 
-                    <com.smart.cst.pwcfgd.CustomFontEditText
+                    <com.smart.cst.afimail.app.CustomFontEditText
                         android:id="@+id/address"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
@@ -464,14 +465,15 @@ The overall objective will be to increase the contribution of the agri¬business
                     android:layout_marginLeft="5dp"
                     android:layout_marginTop="5dp">
 
-                    <com.smart.cst.pwcfgd.CustomFontEditText
+                    <com.smart.cst.afimail.app.CustomFontEditText
                         android:id="@+id/timeStarted"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:backgroundTint="@color/gray"
                         android:hint="Time Started"
                         android:textColorHint="#ffc6c6c6"
-                        android:textSize="15dp" />
+                        android:textSize="15dp"
+                        app:category="time"/>
                 </android.support.design.widget.TextInputLayout>
 
                 <TextView
@@ -489,7 +491,7 @@ The overall objective will be to increase the contribution of the agri¬business
                     android:layout_marginLeft="5dp"
                     android:layout_marginTop="5dp">
 
-                    <com.smart.cst.pwcfgd.CustomFontEditText
+                    <com.smart.cst.afimail.app.CustomFontEditText
                         android:id="@+id/village"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
@@ -499,53 +501,89 @@ The overall objective will be to increase the contribution of the agri¬business
                         android:textSize="15dp" />
                 </android.support.design.widget.TextInputLayout>
 
-                <android.support.design.widget.TextInputLayout
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    android:layout_marginLeft="5dp"
-                    android:layout_marginTop="5dp">
 
-                    <com.smart.cst.pwcfgd.CustomFontEditText
-                        android:id="@+id/gramPanchayat"
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:orientation="vertical"
+                    android:padding="10dip">
+
+                    <!-- Text Label -->
+                    <TextView
+                        android:id="@+id/districtTxt"
                         android:layout_width="match_parent"
-                        android:layout_height="wrap_content"
-                        android:backgroundTint="@color/gray"
-                        android:hint="Gram Panchayat"
-                        android:textColorHint="#ffc6c6c6"
-                        android:textSize="15dp" />
-                </android.support.design.widget.TextInputLayout>
+                        android:layout_height="match_parent"
+                        android:layout_marginBottom="5dp"
+                        android:layout_marginTop="10dip"
+                        android:layout_weight="1"
+                        android:text="Province:"
+                        android:textSize="20dp" />
 
-                <android.support.design.widget.TextInputLayout
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    android:layout_marginLeft="5dp"
-                    android:layout_marginTop="5dp">
-
-                    <com.smart.cst.pwcfgd.CustomFontEditText
-                        android:id="@+id/mandal"
+                    <!-- Spinner Element -->
+                    <Spinner
+                        android:id="@+id/province"
                         android:layout_width="match_parent"
-                        android:layout_height="wrap_content"
-                        android:backgroundTint="@color/gray"
-                        android:hint="Mandal"
-                        android:textColorHint="#ffc6c6c6"
-                        android:textSize="15dp" />
-                </android.support.design.widget.TextInputLayout>
-
-                <android.support.design.widget.TextInputLayout
+                        android:layout_height="match_parent"
+                        android:layout_weight="1"
+                        android:layout_marginTop="10dp"
+                        android:prompt="@string/spinner_title" />
+                </LinearLayout>
+                <LinearLayout
                     android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    android:layout_marginLeft="5dp"
-                    android:layout_marginTop="5dp">
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:orientation="vertical"
+                    android:padding="10dip">
 
-                    <com.smart.cst.pwcfgd.CustomFontEditText
+                    <!-- Text Label -->
+                    <TextView
+                        android:id="@+id/mandalTxt"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_marginBottom="5dp"
+                        android:layout_marginTop="10dip"
+                        android:layout_weight="1"
+                        android:text="District:"
+                        android:textSize="20dp" />
+
+                    <!-- Spinner Element -->
+                    <Spinner
                         android:id="@+id/district"
                         android:layout_width="match_parent"
-                        android:layout_height="wrap_content"
-                        android:backgroundTint="@color/gray"
-                        android:hint="District"
-                        android:textColorHint="#ffc6c6c6"
-                        android:textSize="15dp" />
-                </android.support.design.widget.TextInputLayout>
+                        android:layout_height="match_parent"
+                        android:layout_weight="1"
+                        android:layout_marginTop="10dp"
+                        android:prompt="@string/spinner_title" />
+                </LinearLayout>
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:orientation="vertical"
+                    android:padding="10dip">
+
+                    <!-- Text Label -->
+                    <TextView
+                        android:id="@+id/gpTxt"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_marginBottom="5dp"
+                        android:layout_marginTop="10dip"
+                        android:layout_weight="1"
+                        android:text="Village:"
+                        android:textSize="20dp" />
+
+                    <!-- Spinner Element -->
+                    <Spinner
+                        android:id="@+id/villageSelect"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_weight="1"
+                        android:layout_marginTop="10dp"
+                        android:prompt="@string/spinner_title" />
+                </LinearLayout>
 
                 <TextView
                     android:layout_width="match_parent"
@@ -591,7 +629,7 @@ The overall objective will be to increase the contribution of the agri¬business
                         android:layout_marginLeft="5dp"
                         android:layout_marginTop="5dp">
 
-                        <com.smart.cst.pwcfgd.CustomFontEditText
+                        <com.smart.cst.afimail.app.CustomFontEditText
                             android:id="@+id/memberName"
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
@@ -607,7 +645,7 @@ The overall objective will be to increase the contribution of the agri¬business
                         android:layout_marginLeft="5dp"
                         android:layout_marginTop="5dp">
 
-                        <com.smart.cst.pwcfgd.CustomFontEditText
+                        <com.smart.cst.afimail.app.CustomFontEditText
                             android:id="@+id/sex"
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
@@ -616,7 +654,7 @@ The overall objective will be to increase the contribution of the agri¬business
                             android:textColorHint="#ffc6c6c6"
                             android:textSize="15dp"
                             app:category="@string/selectable"
-                            app:choices="Male,Female,Others" />
+                            app:choices="Male,Female,Third Gender" />
                     </android.support.design.widget.TextInputLayout>
 
                     <android.support.design.widget.TextInputLayout
@@ -625,7 +663,7 @@ The overall objective will be to increase the contribution of the agri¬business
                         android:layout_marginLeft="5dp"
                         android:layout_marginTop="5dp">
 
-                        <com.smart.cst.pwcfgd.CustomFontEditText
+                        <com.smart.cst.afimail.app.CustomFontEditText
                             android:id="@+id/mobile"
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
@@ -641,7 +679,7 @@ The overall objective will be to increase the contribution of the agri¬business
                         android:layout_marginLeft="5dp"
                         android:layout_marginTop="5dp">
 
-                        <com.smart.cst.pwcfgd.CustomFontEditText
+                        <com.smart.cst.afimail.app.CustomFontEditText
                             android:id="@+id/idType"
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
@@ -659,7 +697,7 @@ The overall objective will be to increase the contribution of the agri¬business
                         android:layout_marginLeft="5dp"
                         android:layout_marginTop="5dp">
 
-                        <com.smart.cst.pwcfgd.CustomFontEditText
+                        <com.smart.cst.afimail.app.CustomFontEditText
                             android:id="@+id/farmSize"
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
@@ -703,7 +741,7 @@ The overall objective will be to increase the contribution of the agri¬business
                     android:layout_height="wrap_content"
                     android:layout_marginLeft="5dp"
                     android:layout_marginTop="10dp"
-                    android:text="1. Panchayat Details"
+                    android:text="1. Village Details"
                     android:textColor="#232237"
                     android:textSize="16sp" />
 
@@ -713,12 +751,12 @@ The overall objective will be to increase the contribution of the agri¬business
                     android:layout_marginLeft="5dp"
                     android:layout_marginTop="5dp">
 
-                    <com.smart.cst.pwcfgd.CustomFontEditText
+                    <com.smart.cst.afimail.app.CustomFontEditText
                         android:id="@+id/webLink1"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:backgroundTint="@color/gray"
-                        android:hint="Web Link 1 (Census 2011)"
+                        android:hint="1.1 Village Name"
                         android:textColorHint="#ffc6c6c6"
                         android:textSize="15dp" />
                 </android.support.design.widget.TextInputLayout>
@@ -729,12 +767,12 @@ The overall objective will be to increase the contribution of the agri¬business
                     android:layout_marginLeft="5dp"
                     android:layout_marginTop="5dp">
 
-                    <com.smart.cst.pwcfgd.CustomFontEditText
+                    <com.smart.cst.afimail.app.CustomFontEditText
                         android:id="@+id/webLink2"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:backgroundTint="@color/gray"
-                        android:hint="Web Link 2 (Indikosh)"
+                        android:hint="1.2 Number of households"
                         android:textColorHint="#ffc6c6c6"
                         android:textSize="15dp" />
                 </android.support.design.widget.TextInputLayout>
@@ -745,12 +783,12 @@ The overall objective will be to increase the contribution of the agri¬business
                     android:layout_marginLeft="5dp"
                     android:layout_marginTop="5dp">
 
-                    <com.smart.cst.pwcfgd.CustomFontEditText
+                    <com.smart.cst.afimail.app.CustomFontEditText
                         android:id="@+id/webLink3"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:backgroundTint="@color/gray"
-                        android:hint="Web Link 3 (Onefivenine)"
+                        android:hint="1.3 Number of Male"
                         android:textColorHint="#ffc6c6c6"
                         android:textSize="15dp" />
                 </android.support.design.widget.TextInputLayout>
@@ -773,12 +811,12 @@ The overall objective will be to increase the contribution of the agri¬business
                         android:layout_marginLeft="5dp"
                         android:layout_marginTop="5dp">
 
-                        <com.smart.cst.pwcfgd.CustomFontEditText
+                        <com.smart.cst.afimail.app.CustomFontEditText
                             android:id="@+id/nameVillagesHamlets"
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
                             android:backgroundTint="@color/gray"
-                            android:hint="Name of Villages/ Hamlets"
+                            android:hint="1.4 Number of Female"
                             android:textColorHint="#ffc6c6c6"
                             android:textSize="15dp" />
                     </android.support.design.widget.TextInputLayout>
@@ -789,12 +827,12 @@ The overall objective will be to increase the contribution of the agri¬business
                         android:layout_marginLeft="5dp"
                         android:layout_marginTop="5dp">
 
-                        <com.smart.cst.pwcfgd.CustomFontEditText
+                        <com.smart.cst.afimail.app.CustomFontEditText
                             android:id="@+id/numberOfHouseholds"
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
                             android:backgroundTint="@color/gray"
-                            android:hint="Number of households"
+                            android:hint="1.5 Number of Children"
                             android:textColorHint="#ffc6c6c6"
                             android:textSize="15dp" />
                     </android.support.design.widget.TextInputLayout>
@@ -898,14 +936,15 @@ The overall objective will be to increase the contribution of the agri¬business
                     android:layout_marginLeft="5dp"
                     android:layout_marginTop="5dp">
 
-                    <com.smart.cst.pwcfgd.CustomFontEditText
+                    <com.smart.cst.afimail.app.CustomFontEditText
                         android:id="@+id/averageLandHoldingSize"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:backgroundTint="@color/gray"
-                        android:hint="Average land holding size"
+                        android:hint="2.1 Average land holding size"
                         android:textColorHint="#ffc6c6c6"
-                        android:textSize="15dp" />
+                        android:textSize="15dp"
+                        />
                 </android.support.design.widget.TextInputLayout>
 
                 <android.support.design.widget.TextInputLayout
@@ -914,12 +953,12 @@ The overall objective will be to increase the contribution of the agri¬business
                     android:layout_marginLeft="5dp"
                     android:layout_marginTop="5dp">
 
-                    <com.smart.cst.pwcfgd.CustomFontEditText
+                    <com.smart.cst.afimail.app.CustomFontEditText
                         android:id="@+id/largeFarmers"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:backgroundTint="@color/gray"
-                        android:hint="Large farmers"
+                        android:hint="2.2 Large farmers"
                         android:textColorHint="#ffc6c6c6"
                         android:textSize="15dp" />
                 </android.support.design.widget.TextInputLayout>
@@ -930,12 +969,12 @@ The overall objective will be to increase the contribution of the agri¬business
                     android:layout_marginLeft="5dp"
                     android:layout_marginTop="5dp">
 
-                    <com.smart.cst.pwcfgd.CustomFontEditText
+                    <com.smart.cst.afimail.app.CustomFontEditText
                         android:id="@+id/mediumFarmers"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:backgroundTint="@color/gray"
-                        android:hint="Medium farmers"
+                        android:hint="2.3 Medium farmers"
                         android:textColorHint="#ffc6c6c6"
                         android:textSize="15dp" />
                 </android.support.design.widget.TextInputLayout>
@@ -946,12 +985,12 @@ The overall objective will be to increase the contribution of the agri¬business
                     android:layout_marginLeft="5dp"
                     android:layout_marginTop="5dp">
 
-                    <com.smart.cst.pwcfgd.CustomFontEditText
+                    <com.smart.cst.afimail.app.CustomFontEditText
                         android:id="@+id/marginalFarmers"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:backgroundTint="@color/gray"
-                        android:hint="Marginal farmers"
+                        android:hint="2.4 Marginal farmers"
                         android:textColorHint="#ffc6c6c6"
                         android:textSize="15dp" />
                 </android.support.design.widget.TextInputLayout>
@@ -962,12 +1001,12 @@ The overall objective will be to increase the contribution of the agri¬business
                     android:layout_marginLeft="5dp"
                     android:layout_marginTop="5dp">
 
-                    <com.smart.cst.pwcfgd.CustomFontEditText
+                    <com.smart.cst.afimail.app.CustomFontEditText
                         android:id="@+id/traditionalLandTitleHolders"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:backgroundTint="@color/gray"
-                        android:hint="Traditional Land title holders"
+                        android:hint="2.5 Traditional Land title holders"
                         android:textColorHint="#ffc6c6c6"
                         android:textSize="15dp"
                         app:category="@string/selectable"
@@ -980,12 +1019,12 @@ The overall objective will be to increase the contribution of the agri¬business
                     android:layout_marginLeft="5dp"
                     android:layout_marginTop="5dp">
 
-                    <com.smart.cst.pwcfgd.CustomFontEditText
+                    <com.smart.cst.afimail.app.CustomFontEditText
                         android:id="@+id/ownLandCultivators"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:backgroundTint="@color/gray"
-                        android:hint="Own Land Cultivators"
+                        android:hint="2.6 Own Land Cultivators"
                         android:textColorHint="#ffc6c6c6"
                         android:textSize="15dp" />
                 </android.support.design.widget.TextInputLayout>
@@ -996,12 +1035,12 @@ The overall objective will be to increase the contribution of the agri¬business
                     android:layout_marginLeft="5dp"
                     android:layout_marginTop="5dp">
 
-                    <com.smart.cst.pwcfgd.CustomFontEditText
+                    <com.smart.cst.afimail.app.CustomFontEditText
                         android:id="@+id/leasedLandCultivators"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:backgroundTint="@color/gray"
-                        android:hint="Leased Land Cultivators"
+                        android:hint="2.7 Leased Land Cultivators"
                         android:textColorHint="#ffc6c6c6"
                         android:textSize="15dp" />
                 </android.support.design.widget.TextInputLayout>
@@ -1012,12 +1051,12 @@ The overall objective will be to increase the contribution of the agri¬business
                     android:layout_marginLeft="5dp"
                     android:layout_marginTop="5dp">
 
-                    <com.smart.cst.pwcfgd.CustomFontEditText
+                    <com.smart.cst.afimail.app.CustomFontEditText
                         android:id="@+id/usingDigitalLandRecords"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:backgroundTint="@color/gray"
-                        android:hint="Using Digital Land records (Percent)"
+                        android:hint="2.8 Using Digital Land records (Percent)"
                         android:textColorHint="#ffc6c6c6"
                         android:textSize="15dp"
                         app:category="@string/selectable"
@@ -1031,12 +1070,12 @@ The overall objective will be to increase the contribution of the agri¬business
                     android:layout_marginLeft="5dp"
                     android:layout_marginTop="5dp">
 
-                    <com.smart.cst.pwcfgd.CustomFontEditText
+                    <com.smart.cst.afimail.app.CustomFontEditText
                         android:id="@+id/irrigatedLand"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:backgroundTint="@color/gray"
-                        android:hint="Irrigated Land (Percent)"
+                        android:hint="2.9 Irrigated Land (Percent)"
                         android:textColorHint="#ffc6c6c6"
                         android:textSize="15dp"
                         app:category="@string/selectable"
@@ -1049,12 +1088,12 @@ The overall objective will be to increase the contribution of the agri¬business
                     android:layout_marginLeft="5dp"
                     android:layout_marginTop="5dp">
 
-                    <com.smart.cst.pwcfgd.CustomFontEditText
+                    <com.smart.cst.afimail.app.CustomFontEditText
                         android:id="@+id/rainFedLand"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:backgroundTint="@color/gray"
-                        android:hint="Rain fed land (Percent)"
+                        android:hint="2.10 Rain fed land (Percent)"
                         android:textColorHint="#ffc6c6c6"
                         android:textSize="15dp"
                         app:category="@string/selectable"
@@ -1133,12 +1172,12 @@ The overall objective will be to increase the contribution of the agri¬business
                     android:layout_marginLeft="5dp"
                     android:layout_marginTop="5dp">
 
-                    <com.smart.cst.pwcfgd.CustomFontEditText
+                    <com.smart.cst.afimail.app.CustomFontEditText
                         android:id="@+id/colourOfSoil"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:backgroundTint="@color/gray"
-                        android:hint="Colour of Soil"
+                        android:hint="3.1 Colour of Soil"
                         android:textColorHint="#ffc6c6c6"
                         android:textSize="15dp" />
                 </android.support.design.widget.TextInputLayout>
@@ -1149,12 +1188,12 @@ The overall objective will be to increase the contribution of the agri¬business
                     android:layout_marginLeft="5dp"
                     android:layout_marginTop="5dp">
 
-                    <com.smart.cst.pwcfgd.CustomFontEditText
+                    <com.smart.cst.afimail.app.CustomFontEditText
                         android:id="@+id/typeOfSoil"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:backgroundTint="@color/gray"
-                        android:hint="Type of Soil"
+                        android:hint="3.2 Type of Soil"
                         android:textColorHint="#ffc6c6c6"
                         android:textSize="15dp" />
                 </android.support.design.widget.TextInputLayout>
@@ -1165,12 +1204,12 @@ The overall objective will be to increase the contribution of the agri¬business
                     android:layout_marginLeft="5dp"
                     android:layout_marginTop="5dp">
 
-                    <com.smart.cst.pwcfgd.CustomFontEditText
+                    <com.smart.cst.afimail.app.CustomFontEditText
                         android:id="@+id/depthOfSoil"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:backgroundTint="@color/gray"
-                        android:hint="Depth of soil"
+                        android:hint="3.3 Depth of soil"
                         android:textColorHint="#ffc6c6c6"
                         android:textSize="15dp" />
                 </android.support.design.widget.TextInputLayout>
@@ -1181,12 +1220,12 @@ The overall objective will be to increase the contribution of the agri¬business
                     android:layout_marginLeft="5dp"
                     android:layout_marginTop="5dp">
 
-                    <com.smart.cst.pwcfgd.CustomFontEditText
+                    <com.smart.cst.afimail.app.CustomFontEditText
                         android:id="@+id/qualityOfSoil"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:backgroundTint="@color/gray"
-                        android:hint="Quality of soil"
+                        android:hint="3.4 Quality of soil"
                         android:textColorHint="#ffc6c6c6"
                         android:textSize="15dp" />
                 </android.support.design.widget.TextInputLayout>
@@ -1197,12 +1236,12 @@ The overall objective will be to increase the contribution of the agri¬business
                     android:layout_marginLeft="5dp"
                     android:layout_marginTop="5dp">
 
-                    <com.smart.cst.pwcfgd.CustomFontEditText
+                    <com.smart.cst.afimail.app.CustomFontEditText
                         android:id="@+id/knowledgeAboutSoilTesting"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:backgroundTint="@color/gray"
-                        android:hint="Knowledge about Soil Testing"
+                        android:hint="3.5 Knowledge about Soil Testing"
                         android:textColorHint="#ffc6c6c6"
                         android:textSize="15dp" />
                 </android.support.design.widget.TextInputLayout>
@@ -1213,12 +1252,12 @@ The overall objective will be to increase the contribution of the agri¬business
                     android:layout_marginLeft="5dp"
                     android:layout_marginTop="5dp">
 
-                    <com.smart.cst.pwcfgd.CustomFontEditText
+                    <com.smart.cst.afimail.app.CustomFontEditText
                         android:id="@+id/soilTested"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:backgroundTint="@color/gray"
-                        android:hint="Soil Tested"
+                        android:hint="3.6 Soil Tested"
                         android:textColorHint="#ffc6c6c6"
                         android:textSize="15dp"
                         app:category="@string/selectable"
@@ -1231,12 +1270,12 @@ The overall objective will be to increase the contribution of the agri¬business
                     android:layout_marginLeft="5dp"
                     android:layout_marginTop="5dp">
 
-                    <com.smart.cst.pwcfgd.CustomFontEditText
+                    <com.smart.cst.afimail.app.CustomFontEditText
                         android:id="@+id/soilHealthCard"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:backgroundTint="@color/gray"
-                        android:hint="Soil Health Card"
+                        android:hint="3.7 Soil Health Card"
                         android:textColorHint="#ffc6c6c6"
                         android:textSize="15dp"
                         app:category="@string/selectable"
@@ -1249,12 +1288,12 @@ The overall objective will be to increase the contribution of the agri¬business
                     android:layout_marginLeft="5dp"
                     android:layout_marginTop="5dp">
 
-                    <com.smart.cst.pwcfgd.CustomFontEditText
+                    <com.smart.cst.afimail.app.CustomFontEditText
                         android:id="@+id/Frequency"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:backgroundTint="@color/gray"
-                        android:hint="Frequency"
+                        android:hint="3.8 Frequency"
                         android:textColorHint="#ffc6c6c6"
                         android:textSize="15dp"
                         app:category="@string/selectable"
@@ -1334,12 +1373,12 @@ The overall objective will be to increase the contribution of the agri¬business
                     android:layout_marginLeft="5dp"
                     android:layout_marginTop="5dp">
 
-                    <com.smart.cst.pwcfgd.CustomFontEditText
+                    <com.smart.cst.afimail.app.CustomFontEditText
                         android:id="@+id/rainfall"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:backgroundTint="@color/gray"
-                        android:hint="Rainfall"
+                        android:hint="4.1 Rainfall"
                         android:textColorHint="#ffc6c6c6"
                         android:textSize="15dp"
                         app:category="@string/selectable"
@@ -1352,12 +1391,12 @@ The overall objective will be to increase the contribution of the agri¬business
                     android:layout_marginLeft="5dp"
                     android:layout_marginTop="5dp">
 
-                    <com.smart.cst.pwcfgd.CustomFontEditText
+                    <com.smart.cst.afimail.app.CustomFontEditText
                         android:id="@+id/monsoons"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:backgroundTint="@color/gray"
-                        android:hint="Monsoons"
+                        android:hint="4.2 Monsoons"
                         android:textColorHint="#ffc6c6c6"
                         android:textSize="15dp"
                         app:category="@string/selectable"
@@ -1370,12 +1409,12 @@ The overall objective will be to increase the contribution of the agri¬business
                     android:layout_marginLeft="5dp"
                     android:layout_marginTop="5dp">
 
-                    <com.smart.cst.pwcfgd.CustomFontEditText
+                    <com.smart.cst.afimail.app.CustomFontEditText
                         android:id="@+id/irrigationWaterAvailable"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:backgroundTint="@color/gray"
-                        android:hint="Irrigation water available"
+                        android:hint="4.3 Irrigation water available"
                         android:textColorHint="#ffc6c6c6"
                         android:textSize="15dp"
                         app:category="@string/selectable"
@@ -1388,12 +1427,12 @@ The overall objective will be to increase the contribution of the agri¬business
                     android:layout_marginLeft="5dp"
                     android:layout_marginTop="5dp">
 
-                    <com.smart.cst.pwcfgd.CustomFontEditText
+                    <com.smart.cst.afimail.app.CustomFontEditText
                         android:id="@+id/riverLiftIrrigation"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:backgroundTint="@color/gray"
-                        android:hint="River lift irrigation"
+                        android:hint="4.4 River lift irrigation"
                         android:textColorHint="#ffc6c6c6"
                         android:textSize="15dp"
 
@@ -1407,12 +1446,12 @@ The overall objective will be to increase the contribution of the agri¬business
                     android:layout_marginLeft="5dp"
                     android:layout_marginTop="5dp">
 
-                    <com.smart.cst.pwcfgd.CustomFontEditText
+                    <com.smart.cst.afimail.app.CustomFontEditText
                         android:id="@+id/canalIrrigation"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:backgroundTint="@color/gray"
-                        android:hint="Canal Irrigation"
+                        android:hint="4.5 Canal Irrigation"
                         android:textColorHint="#ffc6c6c6"
                         android:textSize="15dp"
                         app:category="@string/selectable"
@@ -1425,12 +1464,12 @@ The overall objective will be to increase the contribution of the agri¬business
                     android:layout_marginLeft="5dp"
                     android:layout_marginTop="5dp">
 
-                    <com.smart.cst.pwcfgd.CustomFontEditText
+                    <com.smart.cst.afimail.app.CustomFontEditText
                         android:id="@+id/tankIrrigation"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:backgroundTint="@color/gray"
-                        android:hint="Tank Irrigation"
+                        android:hint="4.6 Tank Irrigation"
                         android:textColorHint="#ffc6c6c6"
                         android:textSize="15dp"
                         app:category="@string/selectable"
@@ -1443,12 +1482,12 @@ The overall objective will be to increase the contribution of the agri¬business
                     android:layout_marginLeft="5dp"
                     android:layout_marginTop="5dp">
 
-                    <com.smart.cst.pwcfgd.CustomFontEditText
+                    <com.smart.cst.afimail.app.CustomFontEditText
                         android:id="@+id/wellIrrigation"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:backgroundTint="@color/gray"
-                        android:hint="Well irrigation"
+                        android:hint="4.7 Well irrigation"
                         android:textColorHint="#ffc6c6c6"
                         android:textSize="15dp"
                         app:category="@string/selectable"
@@ -1461,12 +1500,12 @@ The overall objective will be to increase the contribution of the agri¬business
                     android:layout_marginLeft="5dp"
                     android:layout_marginTop="5dp">
 
-                    <com.smart.cst.pwcfgd.CustomFontEditText
+                    <com.smart.cst.afimail.app.CustomFontEditText
                         android:id="@+id/shallowBorewell"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:backgroundTint="@color/gray"
-                        android:hint="Shallow borewell"
+                        android:hint="4.8 Shallow borewell"
                         android:textColorHint="#ffc6c6c6"
                         android:textSize="15dp"
                         app:category="@string/selectable"
@@ -1479,12 +1518,12 @@ The overall objective will be to increase the contribution of the agri¬business
                     android:layout_marginLeft="5dp"
                     android:layout_marginTop="5dp">
 
-                    <com.smart.cst.pwcfgd.CustomFontEditText
+                    <com.smart.cst.afimail.app.CustomFontEditText
                         android:id="@+id/mediumBoreWell"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:backgroundTint="@color/gray"
-                        android:hint="Medium Bore well"
+                        android:hint="4.9 Medium Bore well"
                         android:textColorHint="#ffc6c6c6"
                         android:textSize="15dp"
                         app:category="@string/selectable"
@@ -1497,12 +1536,12 @@ The overall objective will be to increase the contribution of the agri¬business
                     android:layout_marginLeft="5dp"
                     android:layout_marginTop="5dp">
 
-                    <com.smart.cst.pwcfgd.CustomFontEditText
+                    <com.smart.cst.afimail.app.CustomFontEditText
                         android:id="@+id/deepBoreBoreWell"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:backgroundTint="@color/gray"
-                        android:hint="Deep Bore Bore well"
+                        android:hint="4.10 Deep Bore well"
                         android:textColorHint="#ffc6c6c6"
                         android:textSize="15dp"
                         app:category="@string/selectable"
@@ -1515,12 +1554,12 @@ The overall objective will be to increase the contribution of the agri¬business
                     android:layout_marginLeft="5dp"
                     android:layout_marginTop="5dp">
 
-                    <com.smart.cst.pwcfgd.CustomFontEditText
+                    <com.smart.cst.afimail.app.CustomFontEditText
                         android:id="@+id/dieselKerosenePumps"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:backgroundTint="@color/gray"
-                        android:hint="Diesel /Kerosene pumps"
+                        android:hint="4.11 Diesel /Kerosene pumps"
                         android:textColorHint="#ffc6c6c6"
                         android:textSize="15dp"
                         app:category="@string/selectable"
@@ -1533,12 +1572,12 @@ The overall objective will be to increase the contribution of the agri¬business
                     android:layout_marginLeft="5dp"
                     android:layout_marginTop="5dp">
 
-                    <com.smart.cst.pwcfgd.CustomFontEditText
+                    <com.smart.cst.afimail.app.CustomFontEditText
                         android:id="@+id/electricPumps"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:backgroundTint="@color/gray"
-                        android:hint="Electric pumps"
+                        android:hint="4.12 Electric pumps"
                         android:textColorHint="#ffc6c6c6"
                         android:textSize="15dp"
                         app:category="@string/selectable"
@@ -1551,12 +1590,12 @@ The overall objective will be to increase the contribution of the agri¬business
                     android:layout_marginLeft="5dp"
                     android:layout_marginTop="5dp">
 
-                    <com.smart.cst.pwcfgd.CustomFontEditText
+                    <com.smart.cst.afimail.app.CustomFontEditText
                         android:id="@+id/solarPumps"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:backgroundTint="@color/gray"
-                        android:hint="Solar Pumps"
+                        android:hint="4.13 Solar Pumps"
                         android:textColorHint="#ffc6c6c6"
                         android:textSize="15dp"
                         app:category="@string/selectable"
@@ -1569,12 +1608,12 @@ The overall objective will be to increase the contribution of the agri¬business
                     android:layout_marginLeft="5dp"
                     android:layout_marginTop="5dp">
 
-                    <com.smart.cst.pwcfgd.CustomFontEditText
+                    <com.smart.cst.afimail.app.CustomFontEditText
                         android:id="@+id/floodIrrigation"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:backgroundTint="@color/gray"
-                        android:hint="Flood irrigation"
+                        android:hint="4.14 Flood irrigation"
                         android:textColorHint="#ffc6c6c6"
                         android:textSize="15dp"
                         app:category="@string/selectable"
@@ -1587,12 +1626,12 @@ The overall objective will be to increase the contribution of the agri¬business
                     android:layout_marginLeft="5dp"
                     android:layout_marginTop="5dp">
 
-                    <com.smart.cst.pwcfgd.CustomFontEditText
+                    <com.smart.cst.afimail.app.CustomFontEditText
                         android:id="@+id/dripIrrigation"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:backgroundTint="@color/gray"
-                        android:hint="Drip irrigation"
+                        android:hint="4.15 Drip irrigation"
                         android:textColorHint="#ffc6c6c6"
                         android:textSize="15dp"
                         app:category="@string/selectable"
@@ -1605,12 +1644,12 @@ The overall objective will be to increase the contribution of the agri¬business
                     android:layout_marginLeft="5dp"
                     android:layout_marginTop="5dp">
 
-                    <com.smart.cst.pwcfgd.CustomFontEditText
+                    <com.smart.cst.afimail.app.CustomFontEditText
                         android:id="@+id/sprinklerIrrigation"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:backgroundTint="@color/gray"
-                        android:hint="Sprinkler irrigation"
+                        android:hint="4.16 Sprinkler irrigation"
                         android:textColorHint="#ffc6c6c6"
                         android:textSize="15dp"
                         app:category="@string/selectable"
@@ -1623,12 +1662,12 @@ The overall objective will be to increase the contribution of the agri¬business
                     android:layout_marginLeft="5dp"
                     android:layout_marginTop="5dp">
 
-                    <com.smart.cst.pwcfgd.CustomFontEditText
+                    <com.smart.cst.afimail.app.CustomFontEditText
                         android:id="@+id/rainGunIrrigation"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:backgroundTint="@color/gray"
-                        android:hint="Rain gun irrigation"
+                        android:hint="4.17 Rain gun irrigation"
                         android:textColorHint="#ffc6c6c6"
                         android:textSize="15dp"
                         app:category="@string/selectable"
@@ -1705,12 +1744,12 @@ The overall objective will be to increase the contribution of the agri¬business
                     android:layout_marginLeft="5dp"
                     android:layout_marginTop="5dp">
 
-                    <com.smart.cst.pwcfgd.CustomFontEditText
+                    <com.smart.cst.afimail.app.CustomFontEditText
                         android:id="@+id/majorCropsRabi"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:backgroundTint="@color/gray"
-                        android:hint="List all Major Crops in Rabi"
+                        android:hint="5.1 List all Major Crops in Winter"
                         android:textColorHint="#ffc6c6c6"
                         android:textSize="15dp" />
                 </android.support.design.widget.TextInputLayout>
@@ -1721,12 +1760,12 @@ The overall objective will be to increase the contribution of the agri¬business
                     android:layout_marginLeft="5dp"
                     android:layout_marginTop="5dp">
 
-                    <com.smart.cst.pwcfgd.CustomFontEditText
+                    <com.smart.cst.afimail.app.CustomFontEditText
                         android:id="@+id/majorCropsSummer"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:backgroundTint="@color/gray"
-                        android:hint="List all Major  Crops Summer"
+                        android:hint="5.2 List all Major  Crops Summer"
                         android:textColorHint="#ffc6c6c6"
                         android:textSize="15dp" />
                 </android.support.design.widget.TextInputLayout>
@@ -1737,12 +1776,12 @@ The overall objective will be to increase the contribution of the agri¬business
                     android:layout_marginLeft="5dp"
                     android:layout_marginTop="5dp">
 
-                    <com.smart.cst.pwcfgd.CustomFontEditText
+                    <com.smart.cst.afimail.app.CustomFontEditText
                         android:id="@+id/majorCropsKharif"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:backgroundTint="@color/gray"
-                        android:hint="All Major Crops  in Kharif"
+                        android:hint="5.3 All Major Crops  in Autmn"
                         android:textColorHint="#ffc6c6c6"
                         android:textSize="15dp" />
                 </android.support.design.widget.TextInputLayout>
@@ -1753,12 +1792,12 @@ The overall objective will be to increase the contribution of the agri¬business
                     android:layout_marginLeft="5dp"
                     android:layout_marginTop="5dp">
 
-                    <com.smart.cst.pwcfgd.CustomFontEditText
+                    <com.smart.cst.afimail.app.CustomFontEditText
                         android:id="@+id/rankValuableCrops"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:backgroundTint="@color/gray"
-                        android:hint="Rank the 4 top most valuable crops"
+                        android:hint="5.4 Rank the 5 top most valuable crops"
                         android:textColorHint="#ffc6c6c6"
                         android:textSize="15dp" />
                 </android.support.design.widget.TextInputLayout>
@@ -1769,12 +1808,12 @@ The overall objective will be to increase the contribution of the agri¬business
                     android:layout_marginLeft="5dp"
                     android:layout_marginTop="5dp">
 
-                    <com.smart.cst.pwcfgd.CustomFontEditText
+                    <com.smart.cst.afimail.app.CustomFontEditText
                         android:id="@+id/rankLargeVolumeCrops"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:backgroundTint="@color/gray"
-                        android:hint="Rank the 4 top most large volume crops"
+                        android:hint="5.5 Rank the 5 top most large volume crops"
                         android:textColorHint="#ffc6c6c6"
                         android:textSize="15dp" />
                 </android.support.design.widget.TextInputLayout>
@@ -1833,6 +1872,8 @@ The overall objective will be to increase the contribution of the agri¬business
                     android:layout_height="wrap_content"
                     android:layout_marginLeft="5dp"
                     android:layout_marginTop="3dp" />
+
+
                 <TextView
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
@@ -1863,12 +1904,12 @@ The overall objective will be to increase the contribution of the agri¬business
                         android:layout_height="wrap_content"
                         android:layout_weight="1">
 
-                        <com.smart.cst.pwcfgd.CustomFontEditText
+                        <com.smart.cst.afimail.app.CustomFontEditText
                             android:id="@+id/tractor"
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
                             android:backgroundTint="@color/gray"
-                            android:hint="Tractor"
+                            android:hint="6.1.1 Tractor"
                             android:textColorHint="#ffc6c6c6"
                             android:textSize="15dp"
                             app:category="@string/selectable"
@@ -1880,7 +1921,7 @@ The overall objective will be to increase the contribution of the agri¬business
                         android:layout_height="wrap_content"
                         android:layout_weight="1">
 
-                        <com.smart.cst.pwcfgd.CustomFontEditText
+                        <com.smart.cst.afimail.app.CustomFontEditText
                             android:id="@+id/ifHireCostTractor"
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
@@ -1903,12 +1944,12 @@ The overall objective will be to increase the contribution of the agri¬business
                         android:layout_height="wrap_content"
                         android:layout_weight="1">
 
-                        <com.smart.cst.pwcfgd.CustomFontEditText
+                        <com.smart.cst.afimail.app.CustomFontEditText
                             android:id="@+id/tiller"
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
                             android:backgroundTint="@color/gray"
-                            android:hint="Tiller"
+                            android:hint="6.1.2 Tiller"
                             android:textColorHint="#ffc6c6c6"
                             android:textSize="15dp"
                             app:category="@string/selectable"
@@ -1920,7 +1961,7 @@ The overall objective will be to increase the contribution of the agri¬business
                         android:layout_height="wrap_content"
                         android:layout_weight="1">
 
-                        <com.smart.cst.pwcfgd.CustomFontEditText
+                        <com.smart.cst.afimail.app.CustomFontEditText
                             android:id="@+id/ifHireCostTiller"
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
@@ -1943,12 +1984,12 @@ The overall objective will be to increase the contribution of the agri¬business
                         android:layout_height="wrap_content"
                         android:layout_weight="1">
 
-                        <com.smart.cst.pwcfgd.CustomFontEditText
+                        <com.smart.cst.afimail.app.CustomFontEditText
                             android:id="@+id/irrigation"
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
                             android:backgroundTint="@color/gray"
-                            android:hint="Irrigation"
+                            android:hint="6.1.3 Irrigation"
                             android:textColorHint="#ffc6c6c6"
                             android:textSize="15dp"
                             app:category="@string/selectable"
@@ -1960,7 +2001,7 @@ The overall objective will be to increase the contribution of the agri¬business
                         android:layout_height="wrap_content"
                         android:layout_weight="1">
 
-                        <com.smart.cst.pwcfgd.CustomFontEditText
+                        <com.smart.cst.afimail.app.CustomFontEditText
                             android:id="@+id/ifHireCostIrrigation"
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
@@ -1983,12 +2024,12 @@ The overall objective will be to increase the contribution of the agri¬business
                         android:layout_height="wrap_content"
                         android:layout_weight="1">
 
-                        <com.smart.cst.pwcfgd.CustomFontEditText
+                        <com.smart.cst.afimail.app.CustomFontEditText
                             android:id="@+id/harvester"
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
                             android:backgroundTint="@color/gray"
-                            android:hint="Harvester"
+                            android:hint="6.1.4 Harvester"
                             android:textColorHint="#ffc6c6c6"
                             android:textSize="15dp"
                             app:category="@string/selectable"
@@ -2000,7 +2041,7 @@ The overall objective will be to increase the contribution of the agri¬business
                         android:layout_height="wrap_content"
                         android:layout_weight="1">
 
-                        <com.smart.cst.pwcfgd.CustomFontEditText
+                        <com.smart.cst.afimail.app.CustomFontEditText
                             android:id="@+id/ifHireCostHarvester"
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
@@ -2023,12 +2064,12 @@ The overall objective will be to increase the contribution of the agri¬business
                         android:layout_height="wrap_content"
                         android:layout_weight="1">
 
-                        <com.smart.cst.pwcfgd.CustomFontEditText
+                        <com.smart.cst.afimail.app.CustomFontEditText
                             android:id="@+id/trasher"
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
                             android:backgroundTint="@color/gray"
-                            android:hint="Trasher"
+                            android:hint="6.1.5 Trasher"
                             android:textColorHint="#ffc6c6c6"
                             android:textSize="15dp"
                             app:category="@string/selectable"
@@ -2040,7 +2081,7 @@ The overall objective will be to increase the contribution of the agri¬business
                         android:layout_height="wrap_content"
                         android:layout_weight="1">
 
-                        <com.smart.cst.pwcfgd.CustomFontEditText
+                        <com.smart.cst.afimail.app.CustomFontEditText
                             android:id="@+id/ifHireCostTrasher"
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
@@ -2063,12 +2104,12 @@ The overall objective will be to increase the contribution of the agri¬business
                         android:layout_height="wrap_content"
                         android:layout_weight="1">
 
-                        <com.smart.cst.pwcfgd.CustomFontEditText
+                        <com.smart.cst.afimail.app.CustomFontEditText
                             android:id="@+id/dryer"
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
                             android:backgroundTint="@color/gray"
-                            android:hint="Dryer"
+                            android:hint="6.1.6 Dryer"
                             android:textColorHint="#ffc6c6c6"
                             android:textSize="15dp"
                             app:category="@string/selectable"
@@ -2080,7 +2121,7 @@ The overall objective will be to increase the contribution of the agri¬business
                         android:layout_height="wrap_content"
                         android:layout_weight="1">
 
-                        <com.smart.cst.pwcfgd.CustomFontEditText
+                        <com.smart.cst.afimail.app.CustomFontEditText
                             android:id="@+id/ifHireCostDryer"
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
@@ -2097,12 +2138,12 @@ The overall objective will be to increase the contribution of the agri¬business
                     android:layout_marginLeft="5dp"
                     android:layout_marginTop="5dp">
 
-                    <com.smart.cst.pwcfgd.CustomFontEditText
+                    <com.smart.cst.afimail.app.CustomFontEditText
                         android:id="@+id/coldStorageMonthlyRental"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:backgroundTint="@color/gray"
-                        android:hint="Ware House /Cold storage monthly rental"
+                        android:hint="6.1.7 Ware House /Cold storage monthly rental"
                         android:textColorHint="#ffc6c6c6"
                         android:textSize="15dp" />
                 </android.support.design.widget.TextInputLayout>
@@ -2122,12 +2163,12 @@ The overall objective will be to increase the contribution of the agri¬business
                     android:layout_marginLeft="5dp"
                     android:layout_marginTop="5dp">
 
-                    <com.smart.cst.pwcfgd.CustomFontEditText
+                    <com.smart.cst.afimail.app.CustomFontEditText
                         android:id="@+id/mandalLevelLicensedShop"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:backgroundTint="@color/gray"
-                        android:hint="Mandal level licensed shop"
+                        android:hint="6.2.1 Province level licensed shop"
                         android:textColorHint="#ffc6c6c6"
                         android:textSize="15dp" />
                 </android.support.design.widget.TextInputLayout>
@@ -2138,12 +2179,12 @@ The overall objective will be to increase the contribution of the agri¬business
                     android:layout_marginLeft="5dp"
                     android:layout_marginTop="5dp">
 
-                    <com.smart.cst.pwcfgd.CustomFontEditText
+                    <com.smart.cst.afimail.app.CustomFontEditText
                         android:id="@+id/districtLevelLicensedShop"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:backgroundTint="@color/gray"
-                        android:hint="District level licensed shop"
+                        android:hint="6.2.2 District level licensed shop"
                         android:textColorHint="#ffc6c6c6"
                         android:textSize="15dp" />
                 </android.support.design.widget.TextInputLayout>
@@ -2154,12 +2195,12 @@ The overall objective will be to increase the contribution of the agri¬business
                     android:layout_marginLeft="5dp"
                     android:layout_marginTop="5dp">
 
-                    <com.smart.cst.pwcfgd.CustomFontEditText
+                    <com.smart.cst.afimail.app.CustomFontEditText
                         android:id="@+id/localLicensedShop"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:backgroundTint="@color/gray"
-                        android:hint="Local licensed shop"
+                        android:hint="6.2.3 Local licensed shop"
                         android:textColorHint="#ffc6c6c6"
                         android:textSize="15dp" />
                 </android.support.design.widget.TextInputLayout>
@@ -2170,12 +2211,12 @@ The overall objective will be to increase the contribution of the agri¬business
                     android:layout_marginLeft="5dp"
                     android:layout_marginTop="5dp">
 
-                    <com.smart.cst.pwcfgd.CustomFontEditText
+                    <com.smart.cst.afimail.app.CustomFontEditText
                         android:id="@+id/localUnLicensedShop"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:backgroundTint="@color/gray"
-                        android:hint="Local un licensed shop"
+                        android:hint="6.2.4 Local un licensed shop"
                         android:textColorHint="#ffc6c6c6"
                         android:textSize="15dp" />
                 </android.support.design.widget.TextInputLayout>
@@ -2186,12 +2227,12 @@ The overall objective will be to increase the contribution of the agri¬business
                     android:layout_marginLeft="5dp"
                     android:layout_marginTop="5dp">
 
-                    <com.smart.cst.pwcfgd.CustomFontEditText
+                    <com.smart.cst.afimail.app.CustomFontEditText
                         android:id="@+id/researchUniversity"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:backgroundTint="@color/gray"
-                        android:hint="Research University"
+                        android:hint="6.2.5 Research Station University"
                         android:textColorHint="#ffc6c6c6"
                         android:textSize="15dp" />
                 </android.support.design.widget.TextInputLayout>
@@ -2202,12 +2243,12 @@ The overall objective will be to increase the contribution of the agri¬business
                     android:layout_marginLeft="5dp"
                     android:layout_marginTop="5dp">
 
-                    <com.smart.cst.pwcfgd.CustomFontEditText
+                    <com.smart.cst.afimail.app.CustomFontEditText
                         android:id="@+id/othersSource"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:backgroundTint="@color/gray"
-                        android:hint="Others Source"
+                        android:hint="6.2.6 Other Sources"
                         android:textColorHint="#ffc6c6c6"
                         android:textSize="15dp" />
                 </android.support.design.widget.TextInputLayout>
@@ -2227,12 +2268,12 @@ The overall objective will be to increase the contribution of the agri¬business
                     android:layout_marginLeft="5dp"
                     android:layout_marginTop="5dp">
 
-                    <com.smart.cst.pwcfgd.CustomFontEditText
+                    <com.smart.cst.afimail.app.CustomFontEditText
                         android:id="@+id/isLaborEasilyAccessible"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:backgroundTint="@color/gray"
-                        android:hint="Is labor Easily Accessible"
+                        android:hint="6.3.1 Is labor Easily Accessible"
                         android:textColorHint="#ffc6c6c6"
                         android:textSize="15dp" />
                 </android.support.design.widget.TextInputLayout>
@@ -2243,7 +2284,7 @@ The overall objective will be to increase the contribution of the agri¬business
                     android:layout_marginLeft="5dp"
                     android:layout_marginTop="5dp">
 
-                    <com.smart.cst.pwcfgd.CustomFontEditText
+                    <com.smart.cst.afimail.app.CustomFontEditText
                         android:id="@+id/isLaborEasilyAccessibleSpecify"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
@@ -2268,12 +2309,12 @@ The overall objective will be to increase the contribution of the agri¬business
                     android:layout_marginLeft="5dp"
                     android:layout_marginTop="5dp">
 
-                    <com.smart.cst.pwcfgd.CustomFontEditText
+                    <com.smart.cst.afimail.app.CustomFontEditText
                         android:id="@+id/wageMalePerDay"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:backgroundTint="@color/gray"
-                        android:hint="Male per Day"
+                        android:hint="6.4.1 Male per Day"
                         android:textColorHint="#ffc6c6c6"
                         android:textSize="15dp" />
                 </android.support.design.widget.TextInputLayout>
@@ -2284,12 +2325,12 @@ The overall objective will be to increase the contribution of the agri¬business
                     android:layout_marginLeft="5dp"
                     android:layout_marginTop="5dp">
 
-                    <com.smart.cst.pwcfgd.CustomFontEditText
+                    <com.smart.cst.afimail.app.CustomFontEditText
                         android:id="@+id/wageFeMalePerDay"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:backgroundTint="@color/gray"
-                        android:hint="FeMale per Day"
+                        android:hint="6.4.2 FeMale per Day"
                         android:textColorHint="#ffc6c6c6"
                         android:textSize="15dp" />
                 </android.support.design.widget.TextInputLayout>
@@ -2364,12 +2405,12 @@ The overall objective will be to increase the contribution of the agri¬business
                     android:layout_marginLeft="5dp"
                     android:layout_marginTop="5dp">
 
-                    <com.smart.cst.pwcfgd.CustomFontEditText
+                    <com.smart.cst.afimail.app.CustomFontEditText
                         android:id="@+id/informationAgriBestPractices"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:backgroundTint="@color/gray"
-                        android:hint="How do get information on agricultural best practices"
+                        android:hint="7.1 How do you get information on agricultural best practices"
                         android:textColorHint="#ffc6c6c6"
                         android:textSize="15dp"
                         app:category="@string/multiSselectable"
@@ -2382,12 +2423,12 @@ The overall objective will be to increase the contribution of the agri¬business
                     android:layout_marginLeft="5dp"
                     android:layout_marginTop="5dp">
 
-                    <com.smart.cst.pwcfgd.CustomFontEditText
+                    <com.smart.cst.afimail.app.CustomFontEditText
                         android:id="@+id/whoProvidesGuidance"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:backgroundTint="@color/gray"
-                        android:hint="Who provides guidance on farming practices"
+                        android:hint="7.2 Who provides guidance on farming practices"
                         android:textColorHint="#ffc6c6c6"
                         android:textSize="15dp"
                         app:category="@string/multiSselectable"
@@ -2400,12 +2441,12 @@ The overall objective will be to increase the contribution of the agri¬business
                     android:layout_marginLeft="5dp"
                     android:layout_marginTop="5dp">
 
-                    <com.smart.cst.pwcfgd.CustomFontEditText
+                    <com.smart.cst.afimail.app.CustomFontEditText
                         android:id="@+id/trainingsParticipated"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:backgroundTint="@color/gray"
-                        android:hint="Trainings participated in, in last one year"
+                        android:hint="7.3 Trainings participated in last one year"
                         android:textColorHint="#ffc6c6c6"
                         android:textSize="15dp"
                         app:category="@string/multiSselectable"
@@ -2418,12 +2459,12 @@ The overall objective will be to increase the contribution of the agri¬business
                     android:layout_marginLeft="5dp"
                     android:layout_marginTop="5dp">
 
-                    <com.smart.cst.pwcfgd.CustomFontEditText
+                    <com.smart.cst.afimail.app.CustomFontEditText
                         android:id="@+id/useWeatherInformation"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:backgroundTint="@color/gray"
-                        android:hint="Do you use weather information for ploughing or planting or irrigation or harvest"
+                        android:hint="7.4 Do you use weather information for ploughing or planting or irrigation or harvest"
                         android:textColorHint="#ffc6c6c6"
                         android:textSize="15dp"
                         app:category="@string/multiSselectable"
@@ -2436,12 +2477,12 @@ The overall objective will be to increase the contribution of the agri¬business
                     android:layout_marginLeft="5dp"
                     android:layout_marginTop="5dp">
 
-                    <com.smart.cst.pwcfgd.CustomFontEditText
+                    <com.smart.cst.afimail.app.CustomFontEditText
                         android:id="@+id/ifYesWhatSource"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:backgroundTint="@color/gray"
-                        android:hint="If yes what was the source"
+                        android:hint="7.5 If yes what was the source"
                         android:textColorHint="#ffc6c6c6"
                         android:textSize="15dp"
                         app:category="@string/multiSselectable"
@@ -2517,12 +2558,12 @@ The overall objective will be to increase the contribution of the agri¬business
                     android:layout_marginLeft="5dp"
                     android:layout_marginTop="5dp">
 
-                    <com.smart.cst.pwcfgd.CustomFontEditText
+                    <com.smart.cst.afimail.app.CustomFontEditText
                         android:id="@+id/investmentForCropping"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:backgroundTint="@color/gray"
-                        android:hint="Investment for cropping"
+                        android:hint="8.1 Investment for cropping"
                         android:textColorHint="#ffc6c6c6"
                         android:textSize="15dp"
                         app:category="@string/multiSselectable"
@@ -2535,18 +2576,22 @@ The overall objective will be to increase the contribution of the agri¬business
                     android:layout_marginLeft="5dp"
                     android:layout_marginTop="5dp">
 
-                    <com.smart.cst.pwcfgd.CustomFontEditText
+                    <com.smart.cst.afimail.app.CustomFontEditText
                         android:id="@+id/ownKisanCreditCard"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:backgroundTint="@color/gray"
-                        android:hint="Own Kisan Credit card"
+                        android:hint="8.2 Own Credit card"
                         android:textColorHint="#ffc6c6c6"
                         android:textSize="15dp"
                         app:category="@string/selectable"
                         app:choices="All,most,Some,none" />
                 </android.support.design.widget.TextInputLayout>
-
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:visibility="gone"
+    android:orientation="vertical">
                 <TextView
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
@@ -2562,7 +2607,7 @@ The overall objective will be to increase the contribution of the agri¬business
                     android:layout_marginLeft="5dp"
                     android:layout_marginTop="5dp">
 
-                    <com.smart.cst.pwcfgd.CustomFontEditText
+                    <com.smart.cst.afimail.app.CustomFontEditText
                         android:id="@+id/localMoneyLender"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
@@ -2578,7 +2623,7 @@ The overall objective will be to increase the contribution of the agri¬business
                     android:layout_marginLeft="5dp"
                     android:layout_marginTop="5dp">
 
-                    <com.smart.cst.pwcfgd.CustomFontEditText
+                    <com.smart.cst.afimail.app.CustomFontEditText
                         android:id="@+id/sHGGroups"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
@@ -2594,7 +2639,7 @@ The overall objective will be to increase the contribution of the agri¬business
                     android:layout_marginLeft="5dp"
                     android:layout_marginTop="5dp">
 
-                    <com.smart.cst.pwcfgd.CustomFontEditText
+                    <com.smart.cst.afimail.app.CustomFontEditText
                         android:id="@+id/inputShops"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
@@ -2610,7 +2655,7 @@ The overall objective will be to increase the contribution of the agri¬business
                     android:layout_marginLeft="5dp"
                     android:layout_marginTop="5dp">
 
-                    <com.smart.cst.pwcfgd.CustomFontEditText
+                    <com.smart.cst.afimail.app.CustomFontEditText
                         android:id="@+id/traderAggregator"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
@@ -2626,7 +2671,7 @@ The overall objective will be to increase the contribution of the agri¬business
                     android:layout_marginLeft="5dp"
                     android:layout_marginTop="5dp">
 
-                    <com.smart.cst.pwcfgd.CustomFontEditText
+                    <com.smart.cst.afimail.app.CustomFontEditText
                         android:id="@+id/mFI"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
@@ -2642,7 +2687,7 @@ The overall objective will be to increase the contribution of the agri¬business
                     android:layout_marginLeft="5dp"
                     android:layout_marginTop="5dp">
 
-                    <com.smart.cst.pwcfgd.CustomFontEditText
+                    <com.smart.cst.afimail.app.CustomFontEditText
                         android:id="@+id/kCC"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
@@ -2658,7 +2703,7 @@ The overall objective will be to increase the contribution of the agri¬business
                     android:layout_marginLeft="5dp"
                     android:layout_marginTop="5dp">
 
-                    <com.smart.cst.pwcfgd.CustomFontEditText
+                    <com.smart.cst.afimail.app.CustomFontEditText
                         android:id="@+id/localLandCooperative"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
@@ -2674,7 +2719,7 @@ The overall objective will be to increase the contribution of the agri¬business
                     android:layout_marginLeft="5dp"
                     android:layout_marginTop="5dp">
 
-                    <com.smart.cst.pwcfgd.CustomFontEditText
+                    <com.smart.cst.afimail.app.CustomFontEditText
                         android:id="@+id/normalBank"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
@@ -2690,7 +2735,7 @@ The overall objective will be to increase the contribution of the agri¬business
                     android:layout_marginLeft="5dp"
                     android:layout_marginTop="5dp">
 
-                    <com.smart.cst.pwcfgd.CustomFontEditText
+                    <com.smart.cst.afimail.app.CustomFontEditText
                         android:id="@+id/othersSourceFinance"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
@@ -2706,17 +2751,19 @@ The overall objective will be to increase the contribution of the agri¬business
                     android:layout_marginLeft="5dp"
                     android:layout_marginTop="5dp">
 
-                    <com.smart.cst.pwcfgd.CustomFontEditText
+                    <com.smart.cst.afimail.app.CustomFontEditText
                         android:id="@+id/loanRepayment"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:backgroundTint="@color/gray"
-                        android:hint="Loan Repayment"
+                        android:hint="8.4 Loan Repayment"
                         android:textColorHint="#ffc6c6c6"
                         android:textSize="15dp"
                         app:category="@string/selectable"
                         app:choices="After harvest of crop,As and when availability of funds from other source of income,Others" />
                 </android.support.design.widget.TextInputLayout>
+
+</LinearLayout>
                 <TextView
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
@@ -2799,12 +2846,12 @@ The overall objective will be to increase the contribution of the agri¬business
                     android:layout_marginLeft="5dp"
                     android:layout_marginTop="5dp">
 
-                    <com.smart.cst.pwcfgd.CustomFontEditText
+                    <com.smart.cst.afimail.app.CustomFontEditText
                         android:id="@+id/dailyMarketNos"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:backgroundTint="@color/gray"
-                        android:hint="Daily market Nos"
+                        android:hint="9.1.1 Daily market Names"
                         android:textColorHint="#ffc6c6c6"
                         android:textSize="15dp" />
                 </android.support.design.widget.TextInputLayout>
@@ -2815,7 +2862,7 @@ The overall objective will be to increase the contribution of the agri¬business
                     android:layout_marginLeft="5dp"
                     android:layout_marginTop="5dp">
 
-                    <com.smart.cst.pwcfgd.CustomFontEditText
+                    <com.smart.cst.afimail.app.CustomFontEditText
                         android:id="@+id/dailyMarketKms"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
@@ -2831,12 +2878,12 @@ The overall objective will be to increase the contribution of the agri¬business
                     android:layout_marginLeft="5dp"
                     android:layout_marginTop="5dp">
 
-                    <com.smart.cst.pwcfgd.CustomFontEditText
+                    <com.smart.cst.afimail.app.CustomFontEditText
                         android:id="@+id/weeklyHaatNos"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:backgroundTint="@color/gray"
-                        android:hint="Weekly haat Nos"
+                        android:hint="9.1.2 Weekly Market Names"
                         android:textColorHint="#ffc6c6c6"
                         android:textSize="15dp" />
                 </android.support.design.widget.TextInputLayout>
@@ -2847,12 +2894,12 @@ The overall objective will be to increase the contribution of the agri¬business
                     android:layout_marginLeft="5dp"
                     android:layout_marginTop="5dp">
 
-                    <com.smart.cst.pwcfgd.CustomFontEditText
+                    <com.smart.cst.afimail.app.CustomFontEditText
                         android:id="@+id/weeklyHaatKms"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:backgroundTint="@color/gray"
-                        android:hint="Weekly haat Kms"
+                        android:hint="Weekly Market Kms"
                         android:textColorHint="#ffc6c6c6"
                         android:textSize="15dp" />
                 </android.support.design.widget.TextInputLayout>
@@ -2863,12 +2910,12 @@ The overall objective will be to increase the contribution of the agri¬business
                     android:layout_marginLeft="5dp"
                     android:layout_marginTop="5dp">
 
-                    <com.smart.cst.pwcfgd.CustomFontEditText
+                    <com.smart.cst.afimail.app.CustomFontEditText
                         android:id="@+id/blockMandiNos"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:backgroundTint="@color/gray"
-                        android:hint="Block Mandi Nos"
+                        android:hint="9.1.3 Provincial Market Names"
                         android:textColorHint="#ffc6c6c6"
                         android:textSize="15dp" />
                 </android.support.design.widget.TextInputLayout>
@@ -2879,12 +2926,12 @@ The overall objective will be to increase the contribution of the agri¬business
                     android:layout_marginLeft="5dp"
                     android:layout_marginTop="5dp">
 
-                    <com.smart.cst.pwcfgd.CustomFontEditText
+                    <com.smart.cst.afimail.app.CustomFontEditText
                         android:id="@+id/blockMandiKms"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:backgroundTint="@color/gray"
-                        android:hint="Block Mandi Kms"
+                        android:hint="Provincial Market Kms"
                         android:textColorHint="#ffc6c6c6"
                         android:textSize="15dp" />
                 </android.support.design.widget.TextInputLayout>
@@ -2895,12 +2942,12 @@ The overall objective will be to increase the contribution of the agri¬business
                     android:layout_marginLeft="5dp"
                     android:layout_marginTop="5dp">
 
-                    <com.smart.cst.pwcfgd.CustomFontEditText
+                    <com.smart.cst.afimail.app.CustomFontEditText
                         android:id="@+id/districtAPMCNos"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:backgroundTint="@color/gray"
-                        android:hint="District APMC Nos"
+                        android:hint="9.1.4 District Market Names"
                         android:textColorHint="#ffc6c6c6"
                         android:textSize="15dp" />
                 </android.support.design.widget.TextInputLayout>
@@ -2911,12 +2958,12 @@ The overall objective will be to increase the contribution of the agri¬business
                     android:layout_marginLeft="5dp"
                     android:layout_marginTop="5dp">
 
-                    <com.smart.cst.pwcfgd.CustomFontEditText
+                    <com.smart.cst.afimail.app.CustomFontEditText
                         android:id="@+id/districtAPMCKms"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:backgroundTint="@color/gray"
-                        android:hint="District APMC Kms"
+                        android:hint="District Market Kms"
                         android:textColorHint="#ffc6c6c6"
                         android:textSize="15dp" />
                 </android.support.design.widget.TextInputLayout>
@@ -2927,12 +2974,12 @@ The overall objective will be to increase the contribution of the agri¬business
                     android:layout_marginLeft="5dp"
                     android:layout_marginTop="5dp">
 
-                    <com.smart.cst.pwcfgd.CustomFontEditText
+                    <com.smart.cst.afimail.app.CustomFontEditText
                         android:id="@+id/specialMarketsNos"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:backgroundTint="@color/gray"
-                        android:hint="Special markets Nos"
+                        android:hint="9.1.5 Special markets Names"
                         android:textColorHint="#ffc6c6c6"
                         android:textSize="15dp" />
                 </android.support.design.widget.TextInputLayout>
@@ -2943,7 +2990,7 @@ The overall objective will be to increase the contribution of the agri¬business
                     android:layout_marginLeft="5dp"
                     android:layout_marginTop="5dp">
 
-                    <com.smart.cst.pwcfgd.CustomFontEditText
+                    <com.smart.cst.afimail.app.CustomFontEditText
                         android:id="@+id/specialMarketsKms"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
@@ -2959,12 +3006,12 @@ The overall objective will be to increase the contribution of the agri¬business
                     android:layout_marginLeft="5dp"
                     android:layout_marginTop="5dp">
 
-                    <com.smart.cst.pwcfgd.CustomFontEditText
+                    <com.smart.cst.afimail.app.CustomFontEditText
                         android:id="@+id/sourceInformationCurrent"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:backgroundTint="@color/gray"
-                        android:hint="What is major source of Information on Current price of crop?"
+                        android:hint="9.2 What is major source of Information on Current price of crop?"
                         android:textColorHint="#ffc6c6c6"
                         android:textSize="15dp"
                         app:category="@string/selectable"
@@ -2977,12 +3024,12 @@ The overall objective will be to increase the contribution of the agri¬business
                     android:layout_marginLeft="5dp"
                     android:layout_marginTop="5dp">
 
-                    <com.smart.cst.pwcfgd.CustomFontEditText
+                    <com.smart.cst.afimail.app.CustomFontEditText
                         android:id="@+id/timeOfSale"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:backgroundTint="@color/gray"
-                        android:hint="Time of sale"
+                        android:hint="9.3 Time of sale"
                         android:textColorHint="#ffc6c6c6"
                         android:textSize="15dp"
                         app:category="@string/selectable"
@@ -2995,12 +3042,12 @@ The overall objective will be to increase the contribution of the agri¬business
                     android:layout_marginLeft="5dp"
                     android:layout_marginTop="5dp">
 
-                    <com.smart.cst.pwcfgd.CustomFontEditText
+                    <com.smart.cst.afimail.app.CustomFontEditText
                         android:id="@+id/storageSystems"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:backgroundTint="@color/gray"
-                        android:hint="Storage Systems"
+                        android:hint="9.4 Storage Systems"
                         android:textColorHint="#ffc6c6c6"
                         android:textSize="15dp"
                         app:category="@string/selectable"
@@ -3013,12 +3060,12 @@ The overall objective will be to increase the contribution of the agri¬business
                     android:layout_marginLeft="5dp"
                     android:layout_marginTop="5dp">
 
-                    <com.smart.cst.pwcfgd.CustomFontEditText
+                    <com.smart.cst.afimail.app.CustomFontEditText
                         android:id="@+id/storageItems"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:backgroundTint="@color/gray"
-                        android:hint="Storage Items"
+                        android:hint="9.5 Storage Items"
                         android:textColorHint="#ffc6c6c6"
                         android:textSize="15dp"
                         app:category="@string/selectable"
@@ -3049,7 +3096,7 @@ The overall objective will be to increase the contribution of the agri¬business
                     android:layout_marginLeft="5dp"
                     android:layout_marginTop="5dp">
 
-                    <com.smart.cst.pwcfgd.CustomFontEditText
+                    <com.smart.cst.afimail.app.CustomFontEditText
                         android:id="@+id/sellCropsFruitsLocalTrader"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
@@ -3065,12 +3112,12 @@ The overall objective will be to increase the contribution of the agri¬business
                     android:layout_marginLeft="5dp"
                     android:layout_marginTop="5dp">
 
-                    <com.smart.cst.pwcfgd.CustomFontEditText
+                    <com.smart.cst.afimail.app.CustomFontEditText
                         android:id="@+id/sellCropsFruitsMandi"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:backgroundTint="@color/gray"
-                        android:hint="Mandi"
+                        android:hint="District"
                         android:textColorHint="#ffc6c6c6"
                         android:textSize="15dp" />
                 </android.support.design.widget.TextInputLayout>
@@ -3081,7 +3128,7 @@ The overall objective will be to increase the contribution of the agri¬business
                     android:layout_marginLeft="5dp"
                     android:layout_marginTop="5dp">
 
-                    <com.smart.cst.pwcfgd.CustomFontEditText
+                    <com.smart.cst.afimail.app.CustomFontEditText
                         android:id="@+id/sellCropsFruitsOthers"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
@@ -3097,7 +3144,7 @@ The overall objective will be to increase the contribution of the agri¬business
                     android:layout_marginLeft="5dp"
                     android:layout_marginTop="5dp">
 
-                    <com.smart.cst.pwcfgd.CustomFontEditText
+                    <com.smart.cst.afimail.app.CustomFontEditText
                         android:id="@+id/sellCropsFruitsPrice"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
@@ -3115,7 +3162,7 @@ The overall objective will be to increase the contribution of the agri¬business
                     android:layout_marginLeft="5dp"
                     android:layout_marginTop="5dp">
 
-                    <com.smart.cst.pwcfgd.CustomFontEditText
+                    <com.smart.cst.afimail.app.CustomFontEditText
                         android:id="@+id/sellCropsFruitsPayment"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
@@ -3142,7 +3189,7 @@ The overall objective will be to increase the contribution of the agri¬business
                     android:layout_marginLeft="5dp"
                     android:layout_marginTop="5dp">
 
-                    <com.smart.cst.pwcfgd.CustomFontEditText
+                    <com.smart.cst.afimail.app.CustomFontEditText
                         android:id="@+id/sellCropsCerealsLocalTrader"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
@@ -3158,12 +3205,12 @@ The overall objective will be to increase the contribution of the agri¬business
                     android:layout_marginLeft="5dp"
                     android:layout_marginTop="5dp">
 
-                    <com.smart.cst.pwcfgd.CustomFontEditText
+                    <com.smart.cst.afimail.app.CustomFontEditText
                         android:id="@+id/sellCropsCerealsMandi"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:backgroundTint="@color/gray"
-                        android:hint="Mandi"
+                        android:hint="District"
                         android:textColorHint="#ffc6c6c6"
                         android:textSize="15dp" />
                 </android.support.design.widget.TextInputLayout>
@@ -3172,9 +3219,10 @@ The overall objective will be to increase the contribution of the agri¬business
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_marginLeft="5dp"
+                    android:visibility="gone"
                     android:layout_marginTop="5dp">
 
-                    <com.smart.cst.pwcfgd.CustomFontEditText
+                    <com.smart.cst.afimail.app.CustomFontEditText
                         android:id="@+id/sellCropsCerealsPACS"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
@@ -3188,9 +3236,10 @@ The overall objective will be to increase the contribution of the agri¬business
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_marginLeft="5dp"
+                    android:visibility="gone"
                     android:layout_marginTop="5dp">
 
-                    <com.smart.cst.pwcfgd.CustomFontEditText
+                    <com.smart.cst.afimail.app.CustomFontEditText
                         android:id="@+id/sellCropsCerealsFPCPG"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
@@ -3204,9 +3253,10 @@ The overall objective will be to increase the contribution of the agri¬business
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_marginLeft="5dp"
+                    android:visibility="gone"
                     android:layout_marginTop="5dp">
 
-                    <com.smart.cst.pwcfgd.CustomFontEditText
+                    <com.smart.cst.afimail.app.CustomFontEditText
                         android:id="@+id/sellCropsCerealscompaniesITC"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
@@ -3222,7 +3272,7 @@ The overall objective will be to increase the contribution of the agri¬business
                     android:layout_marginLeft="5dp"
                     android:layout_marginTop="5dp">
 
-                    <com.smart.cst.pwcfgd.CustomFontEditText
+                    <com.smart.cst.afimail.app.CustomFontEditText
                         android:id="@+id/sellCropsCerealsOthers"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
@@ -3236,9 +3286,10 @@ The overall objective will be to increase the contribution of the agri¬business
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_marginLeft="5dp"
+                    android:visibility="gone"
                     android:layout_marginTop="5dp">
 
-                    <com.smart.cst.pwcfgd.CustomFontEditText
+                    <com.smart.cst.afimail.app.CustomFontEditText
                         android:id="@+id/sellCropsCerealsPrice"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
@@ -3256,7 +3307,7 @@ The overall objective will be to increase the contribution of the agri¬business
                     android:layout_marginLeft="5dp"
                     android:layout_marginTop="5dp">
 
-                    <com.smart.cst.pwcfgd.CustomFontEditText
+                    <com.smart.cst.afimail.app.CustomFontEditText
                         android:id="@+id/sellCropsCerealsPayment"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
@@ -3283,7 +3334,7 @@ The overall objective will be to increase the contribution of the agri¬business
                     android:layout_marginLeft="5dp"
                     android:layout_marginTop="5dp">
 
-                    <com.smart.cst.pwcfgd.CustomFontEditText
+                    <com.smart.cst.afimail.app.CustomFontEditText
                         android:id="@+id/sellCropsVegetablesLocalTrader"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
@@ -3299,7 +3350,7 @@ The overall objective will be to increase the contribution of the agri¬business
                     android:layout_marginLeft="5dp"
                     android:layout_marginTop="5dp">
 
-                    <com.smart.cst.pwcfgd.CustomFontEditText
+                    <com.smart.cst.afimail.app.CustomFontEditText
                         android:id="@+id/sellCropsVegetablesTrader"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
@@ -3315,7 +3366,7 @@ The overall objective will be to increase the contribution of the agri¬business
                     android:layout_marginLeft="5dp"
                     android:layout_marginTop="5dp">
 
-                    <com.smart.cst.pwcfgd.CustomFontEditText
+                    <com.smart.cst.afimail.app.CustomFontEditText
                         android:id="@+id/sellCropsVegetablesProcessingCompanies"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
@@ -3331,7 +3382,7 @@ The overall objective will be to increase the contribution of the agri¬business
                     android:layout_marginLeft="5dp"
                     android:layout_marginTop="5dp">
 
-                    <com.smart.cst.pwcfgd.CustomFontEditText
+                    <com.smart.cst.afimail.app.CustomFontEditText
                         android:id="@+id/sellCropsVegetablesOthers"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
@@ -3347,7 +3398,7 @@ The overall objective will be to increase the contribution of the agri¬business
                     android:layout_marginLeft="5dp"
                     android:layout_marginTop="5dp">
 
-                    <com.smart.cst.pwcfgd.CustomFontEditText
+                    <com.smart.cst.afimail.app.CustomFontEditText
                         android:id="@+id/sellCropsVegetablesPrice"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
@@ -3365,7 +3416,7 @@ The overall objective will be to increase the contribution of the agri¬business
                     android:layout_marginLeft="5dp"
                     android:layout_marginTop="5dp">
 
-                    <com.smart.cst.pwcfgd.CustomFontEditText
+                    <com.smart.cst.afimail.app.CustomFontEditText
                         android:id="@+id/sellCropsVegetablesPayment"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
@@ -3459,12 +3510,12 @@ The overall objective will be to increase the contribution of the agri¬business
                 android:layout_marginLeft="5dp"
                 android:layout_marginTop="5dp">
 
-                <com.smart.cst.pwcfgd.CustomFontEditText
+                <com.smart.cst.afimail.app.CustomFontEditText
                     android:id="@+id/incomeFromCrops"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:backgroundTint="@color/gray"
-                    android:hint="Income from Crops"
+                    android:hint="10.1.1 Income from Crops"
                     android:textColorHint="#ffc6c6c6"
                     android:textSize="15dp"
                     app:category="@string/selectable"
@@ -3477,12 +3528,12 @@ The overall objective will be to increase the contribution of the agri¬business
                 android:layout_marginLeft="5dp"
                 android:layout_marginTop="5dp">
 
-                <com.smart.cst.pwcfgd.CustomFontEditText
+                <com.smart.cst.afimail.app.CustomFontEditText
                     android:id="@+id/incomeFromLivestock"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:backgroundTint="@color/gray"
-                    android:hint="Income from Livestock"
+                    android:hint="10.1.2 Income from Livestock"
                     android:textColorHint="#ffc6c6c6"
                     android:textSize="15dp"
                     app:category="@string/selectable"
@@ -3495,12 +3546,12 @@ The overall objective will be to increase the contribution of the agri¬business
                 android:layout_marginLeft="5dp"
                 android:layout_marginTop="5dp">
 
-                <com.smart.cst.pwcfgd.CustomFontEditText
+                <com.smart.cst.afimail.app.CustomFontEditText
                     android:id="@+id/incomeFromAgriLabour"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:backgroundTint="@color/gray"
-                    android:hint="Income from Agri labour"
+                    android:hint="10.1.3 Income from Agri labour"
                     android:textColorHint="#ffc6c6c6"
                     android:textSize="15dp"
                     app:category="@string/selectable"
@@ -3513,12 +3564,12 @@ The overall objective will be to increase the contribution of the agri¬business
                 android:layout_marginLeft="5dp"
                 android:layout_marginTop="5dp">
 
-                <com.smart.cst.pwcfgd.CustomFontEditText
+                <com.smart.cst.afimail.app.CustomFontEditText
                     android:id="@+id/incomeFromMigrationLabour"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:backgroundTint="@color/gray"
-                    android:hint="Income from Migration labour"
+                    android:hint="10.1.4 Income from Migration labour"
                     android:textColorHint="#ffc6c6c6"
                     android:textSize="15dp"
                     app:category="@string/selectable"
@@ -3531,12 +3582,12 @@ The overall objective will be to increase the contribution of the agri¬business
                 android:layout_marginLeft="5dp"
                 android:layout_marginTop="5dp">
 
-                <com.smart.cst.pwcfgd.CustomFontEditText
+                <com.smart.cst.afimail.app.CustomFontEditText
                     android:id="@+id/incomeFromService"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:backgroundTint="@color/gray"
-                    android:hint="Income From Service"
+                    android:hint="10.1.5 Income From Service"
                     android:textColorHint="#ffc6c6c6"
                     android:textSize="15dp"
                     app:category="@string/selectable"
@@ -3549,12 +3600,12 @@ The overall objective will be to increase the contribution of the agri¬business
                 android:layout_marginLeft="5dp"
                 android:layout_marginTop="5dp">
 
-                <com.smart.cst.pwcfgd.CustomFontEditText
+                <com.smart.cst.afimail.app.CustomFontEditText
                     android:id="@+id/incomeFromShopTrade"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:backgroundTint="@color/gray"
-                    android:hint="Income from shop /trade"
+                    android:hint="10.1.6 Income from shop /trade"
                     android:textColorHint="#ffc6c6c6"
                     android:textSize="15dp"
                     app:category="@string/selectable"
@@ -3567,12 +3618,12 @@ The overall objective will be to increase the contribution of the agri¬business
                 android:layout_marginLeft="5dp"
                 android:layout_marginTop="5dp">
 
-                <com.smart.cst.pwcfgd.CustomFontEditText
+                <com.smart.cst.afimail.app.CustomFontEditText
                     android:id="@+id/threeMealsOfFood"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:backgroundTint="@color/gray"
-                    android:hint="Three meals of food"
+                    android:hint="10.2 Three meals of food"
                     android:textColorHint="#ffc6c6c6"
                     android:textSize="15dp"
                     app:category="@string/selectable"
@@ -3594,12 +3645,12 @@ The overall objective will be to increase the contribution of the agri¬business
                 android:layout_marginLeft="5dp"
                 android:layout_marginTop="5dp">
 
-                <com.smart.cst.pwcfgd.CustomFontEditText
+                <com.smart.cst.afimail.app.CustomFontEditText
                     android:id="@+id/landPreparation"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:backgroundTint="@color/gray"
-                    android:hint="Land preparation"
+                    android:hint="10.3.1 Land preparation"
                     android:textColorHint="#ffc6c6c6"
                     android:textSize="15dp"
                     app:category="@string/selectable"
@@ -3612,12 +3663,12 @@ The overall objective will be to increase the contribution of the agri¬business
                 android:layout_marginLeft="5dp"
                 android:layout_marginTop="5dp">
 
-                <com.smart.cst.pwcfgd.CustomFontEditText
+                <com.smart.cst.afimail.app.CustomFontEditText
                     android:id="@+id/seeds"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:backgroundTint="@color/gray"
-                    android:hint="Seeds"
+                    android:hint="10.3.2 Seeds"
                     android:textColorHint="#ffc6c6c6"
                     android:textSize="15dp"
                     app:category="@string/selectable"
@@ -3630,12 +3681,12 @@ The overall objective will be to increase the contribution of the agri¬business
                 android:layout_marginLeft="5dp"
                 android:layout_marginTop="5dp">
 
-                <com.smart.cst.pwcfgd.CustomFontEditText
+                <com.smart.cst.afimail.app.CustomFontEditText
                     android:id="@+id/fertilizer"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:backgroundTint="@color/gray"
-                    android:hint="Fertilizer"
+                    android:hint="10.3.3 Fertilizer"
                     android:textColorHint="#ffc6c6c6"
                     android:textSize="15dp"
                     app:category="@string/selectable"
@@ -3648,12 +3699,12 @@ The overall objective will be to increase the contribution of the agri¬business
                 android:layout_marginLeft="5dp"
                 android:layout_marginTop="5dp">
 
-                <com.smart.cst.pwcfgd.CustomFontEditText
+                <com.smart.cst.afimail.app.CustomFontEditText
                     android:id="@+id/pesticides"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:backgroundTint="@color/gray"
-                    android:hint="Pesticides"
+                    android:hint="10.3.4 Pesticides"
                     android:textColorHint="#ffc6c6c6"
                     android:textSize="15dp"
                     app:category="@string/selectable"
@@ -3666,12 +3717,12 @@ The overall objective will be to increase the contribution of the agri¬business
                 android:layout_marginLeft="5dp"
                 android:layout_marginTop="5dp">
 
-                <com.smart.cst.pwcfgd.CustomFontEditText
+                <com.smart.cst.afimail.app.CustomFontEditText
                     android:id="@+id/irrigationExpan"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:backgroundTint="@color/gray"
-                    android:hint="Irrigation"
+                    android:hint="10.3.5 Irrigation"
                     android:textColorHint="#ffc6c6c6"
                     android:textSize="15dp"
                     app:category="@string/selectable"
@@ -3684,12 +3735,12 @@ The overall objective will be to increase the contribution of the agri¬business
                 android:layout_marginLeft="5dp"
                 android:layout_marginTop="5dp">
 
-                <com.smart.cst.pwcfgd.CustomFontEditText
+                <com.smart.cst.afimail.app.CustomFontEditText
                     android:id="@+id/weeding"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:backgroundTint="@color/gray"
-                    android:hint="Weeding"
+                    android:hint="10.3.6 Weeding"
                     android:textColorHint="#ffc6c6c6"
                     android:textSize="15dp"
                     app:category="@string/selectable"
@@ -3702,12 +3753,12 @@ The overall objective will be to increase the contribution of the agri¬business
                 android:layout_marginLeft="5dp"
                 android:layout_marginTop="5dp">
 
-                <com.smart.cst.pwcfgd.CustomFontEditText
+                <com.smart.cst.afimail.app.CustomFontEditText
                     android:id="@+id/harvesting"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:backgroundTint="@color/gray"
-                    android:hint="Harvesting"
+                    android:hint="10.3.7 Harvesting"
                     android:textColorHint="#ffc6c6c6"
                     android:textSize="15dp"
                     app:category="@string/selectable"
@@ -3720,12 +3771,12 @@ The overall objective will be to increase the contribution of the agri¬business
                 android:layout_marginLeft="5dp"
                 android:layout_marginTop="5dp">
 
-                <com.smart.cst.pwcfgd.CustomFontEditText
+                <com.smart.cst.afimail.app.CustomFontEditText
                     android:id="@+id/cleaningSortingPacking"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:backgroundTint="@color/gray"
-                    android:hint="Cleaning,Sorting,Packing"
+                    android:hint="10.3.8 Cleaning,Sorting,Packing"
                     android:textColorHint="#ffc6c6c6"
                     android:textSize="15dp"
                     app:category="@string/selectable"
@@ -3738,12 +3789,12 @@ The overall objective will be to increase the contribution of the agri¬business
                 android:layout_marginLeft="5dp"
                 android:layout_marginTop="5dp">
 
-                <com.smart.cst.pwcfgd.CustomFontEditText
+                <com.smart.cst.afimail.app.CustomFontEditText
                     android:id="@+id/transportation"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:backgroundTint="@color/gray"
-                    android:hint="Transportation"
+                    android:hint="10.3.9 Transportation"
                     android:textColorHint="#ffc6c6c6"
                     android:textSize="15dp"
                     app:category="@string/selectable"
@@ -3756,12 +3807,12 @@ The overall objective will be to increase the contribution of the agri¬business
                 android:layout_marginLeft="5dp"
                 android:layout_marginTop="5dp">
 
-                <com.smart.cst.pwcfgd.CustomFontEditText
+                <com.smart.cst.afimail.app.CustomFontEditText
                     android:id="@+id/storage"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:backgroundTint="@color/gray"
-                    android:hint="Storage"
+                    android:hint="10.3.10 Storage"
                     android:textColorHint="#ffc6c6c6"
                     android:textSize="15dp"
                     app:category="@string/selectable"
@@ -3783,12 +3834,12 @@ The overall objective will be to increase the contribution of the agri¬business
                 android:layout_marginLeft="5dp"
                 android:layout_marginTop="5dp">
 
-                <com.smart.cst.pwcfgd.CustomFontEditText
+                <com.smart.cst.afimail.app.CustomFontEditText
                     android:id="@+id/milkingCow"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:backgroundTint="@color/gray"
-                    android:hint="Milking cow"
+                    android:hint="10.4.1 Milking cow"
                     android:textColorHint="#ffc6c6c6"
                     android:textSize="15dp"
                     app:category="@string/selectable"
@@ -3801,12 +3852,12 @@ The overall objective will be to increase the contribution of the agri¬business
                 android:layout_marginLeft="5dp"
                 android:layout_marginTop="5dp">
 
-                <com.smart.cst.pwcfgd.CustomFontEditText
+                <com.smart.cst.afimail.app.CustomFontEditText
                     android:id="@+id/sheepGoats"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:backgroundTint="@color/gray"
-                    android:hint="Sheep &amp; Goats"
+                    android:hint="10.4.2 Sheep &amp; Goats"
                     android:textColorHint="#ffc6c6c6"
                     android:textSize="15dp"
                     app:category="@string/selectable"
@@ -3819,12 +3870,12 @@ The overall objective will be to increase the contribution of the agri¬business
                 android:layout_marginLeft="5dp"
                 android:layout_marginTop="5dp">
 
-                <com.smart.cst.pwcfgd.CustomFontEditText
+                <com.smart.cst.afimail.app.CustomFontEditText
                     android:id="@+id/backyardPoultry"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:backgroundTint="@color/gray"
-                    android:hint="Backyard Poultry"
+                    android:hint="10.4.3 Backyard Poultry"
                     android:textColorHint="#ffc6c6c6"
                     android:textSize="15dp"
                     app:category="@string/selectable"
@@ -3843,12 +3894,12 @@ The overall objective will be to increase the contribution of the agri¬business
                     android:layout_height="wrap_content"
                     android:layout_weight="1">
 
-                    <com.smart.cst.pwcfgd.CustomFontEditText
+                    <com.smart.cst.afimail.app.CustomFontEditText
                         android:id="@+id/aquaculturePond"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:backgroundTint="@color/gray"
-                        android:hint="Aquaculture pond"
+                        android:hint="10.4.4 Cattle for meat"
                         android:textColorHint="#ffc6c6c6"
                         android:textSize="15dp"
                         app:category="@string/selectable"
@@ -3860,7 +3911,7 @@ The overall objective will be to increase the contribution of the agri¬business
                     android:layout_height="wrap_content"
                     android:layout_weight="1">
 
-                    <com.smart.cst.pwcfgd.CustomFontEditText
+                    <com.smart.cst.afimail.app.CustomFontEditText
                         android:id="@+id/ifYesCountAquaculturePond"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
@@ -3883,12 +3934,12 @@ The overall objective will be to increase the contribution of the agri¬business
                     android:layout_height="wrap_content"
                     android:layout_weight="1">
 
-                    <com.smart.cst.pwcfgd.CustomFontEditText
+                    <com.smart.cst.afimail.app.CustomFontEditText
                         android:id="@+id/tractors"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:backgroundTint="@color/gray"
-                        android:hint="Tractors"
+                        android:hint="10.4.5 Tractors"
                         android:textColorHint="#ffc6c6c6"
                         android:textSize="15dp"
                         app:category="@string/selectable"
@@ -3900,7 +3951,7 @@ The overall objective will be to increase the contribution of the agri¬business
                     android:layout_height="wrap_content"
                     android:layout_weight="1">
 
-                    <com.smart.cst.pwcfgd.CustomFontEditText
+                    <com.smart.cst.afimail.app.CustomFontEditText
                         android:id="@+id/ifYesCountTractors"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
@@ -3923,12 +3974,12 @@ The overall objective will be to increase the contribution of the agri¬business
                     android:layout_height="wrap_content"
                     android:layout_weight="1">
 
-                    <com.smart.cst.pwcfgd.CustomFontEditText
+                    <com.smart.cst.afimail.app.CustomFontEditText
                         android:id="@+id/tillers"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:backgroundTint="@color/gray"
-                        android:hint="Tillers"
+                        android:hint="10.4.6 Tillers"
                         android:textColorHint="#ffc6c6c6"
                         android:textSize="15dp"
                         app:category="@string/selectable"
@@ -3940,7 +3991,7 @@ The overall objective will be to increase the contribution of the agri¬business
                     android:layout_height="wrap_content"
                     android:layout_weight="1">
 
-                    <com.smart.cst.pwcfgd.CustomFontEditText
+                    <com.smart.cst.afimail.app.CustomFontEditText
                         android:id="@+id/ifYesCountTillers"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
@@ -3963,12 +4014,12 @@ The overall objective will be to increase the contribution of the agri¬business
                     android:layout_height="wrap_content"
                     android:layout_weight="1">
 
-                    <com.smart.cst.pwcfgd.CustomFontEditText
+                    <com.smart.cst.afimail.app.CustomFontEditText
                         android:id="@+id/harvesters"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:backgroundTint="@color/gray"
-                        android:hint="Harvesters"
+                        android:hint="10.4.7 Harvesters"
                         android:textColorHint="#ffc6c6c6"
                         android:textSize="15dp"
                         app:category="@string/selectable"
@@ -3980,7 +4031,7 @@ The overall objective will be to increase the contribution of the agri¬business
                     android:layout_height="wrap_content"
                     android:layout_weight="1">
 
-                    <com.smart.cst.pwcfgd.CustomFontEditText
+                    <com.smart.cst.afimail.app.CustomFontEditText
                         android:id="@+id/ifYesCountHarvesters"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"

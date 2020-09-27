@@ -3,7 +3,6 @@
     android:id="@+id/splashScreen"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
-    android:background="@drawable/pwcfgd"
     android:orientation="vertical">
 
     <LinearLayout
@@ -18,30 +17,108 @@
         android:gravity="center"
         android:orientation="vertical">
 
-        <RelativeLayout
+        <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_centerHorizontal="true"
-            android:gravity="center"
+            android:gravity="left"
             android:orientation="horizontal">
 
-            <ImageView
-                android:layout_width="50dp"
-                android:layout_height="50dp"
-                android:layout_alignParentTop="true"
-                android:layout_alignParentEnd="true"
-                android:layout_gravity="right"
-                android:src="@drawable/logo1" />
-
-            <ImageView
-                android:layout_width="50dp"
-                android:layout_height="50dp"
-                android:layout_gravity="center"
-                android:src="@drawable/pwcimgs" />
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:gravity="center"
+                android:orientation="horizontal">
 
 
-        </RelativeLayout>
+                <ImageView
+                    android:id="@+id/img"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:visibility="visible"
+                    android:layout_alignParentStart="true"
+                    android:layout_alignParentTop="true"
+                    android:layout_marginStart="51dp"
+                    android:layout_marginTop="0dp"
+                    android:src="@drawable/mail" />
 
+                <ImageView
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:layout_alignParentTop="true"
+                    android:layout_gravity="right"
+                    android:src="@drawable/fao" />
+
+                <ImageView
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:layout_gravity="right"
+                    android:layout_alignParentStart="true"
+                    android:layout_alignParentTop="true"
+                    android:layout_marginStart="102dp"
+                    android:visibility="gone"
+                    android:src="@drawable/ait" />
+
+                <!--<TextView-->
+                <!--android:id="@+id/editText"-->
+                <!--android:layout_width="wrap_content"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:fontFeatureSettings="smcp"-->
+                <!--android:text="Smart CHC"-->
+                <!--android:layout_alignParentTop="true"-->
+                <!--android:layout_alignParentEnd="true"-->
+                <!--android:textColor="@color/white"-->
+                <!--android:textSize="25sp"-->
+                <!--android:textStyle="bold" />-->
+
+            </RelativeLayout>
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_centerHorizontal="true"
+        android:layout_centerInParent="true">
+
+        <TextView
+            android:id="@+id/title1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFeatureSettings="smcp"
+            android:text="SMART DPIMS"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentEnd="true"
+            android:textColor="#000"
+            android:layout_marginBottom="15dp"
+            android:textSize="25sp"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFeatureSettings="smcp"
+            android:text="Decentralized Planning, Implementation and \nMonitoring System (DPIMS)"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentEnd="true"
+            android:textColor="#000"
+            android:layout_marginBottom="0dp"
+            android:textSize="15sp"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:textStyle="bold" />
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:src="@drawable/afimap" />
     </LinearLayout>
 
     <LinearLayout
@@ -54,17 +131,6 @@
         android:gravity="center"
         android:orientation="vertical">
 
-        <TextView
-            android:id="@+id/editText"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_centerHorizontal="true"
-            android:layout_marginBottom="10dp"
-            android:fontFeatureSettings="smcp"
-            android:text="Smart PWC FGD"
-            android:textColor="#fff"
-            android:textSize="35sp"
-            android:textStyle="bold" />
 
         <LinearLayout
             android:layout_width="wrap_content"
@@ -75,12 +141,12 @@
 
             <ImageView
                 android:id="@+id/logoCst"
-                android:layout_width="24dp"
+                android:layout_width="18dp"
                 android:layout_height="24dp"
-                android:layout_alignParentStart="true"
+                android:src="@drawable/ait"
                 android:layout_alignParentLeft="true"
-                android:layout_alignParentTop="true"
-                android:src="@drawable/cst" />
+                android:layout_alignParentStart="true"
+                android:layout_alignParentTop="true" />
 
             <TextView
                 android:id="@+id/textView"
@@ -91,8 +157,8 @@
                 android:layout_toRightOf="@+id/logoCst"
                 android:gravity="center"
                 android:padding="5dp"
-                android:text="\u00A9 Climate Smart Technologies Private Limited"
-                android:textColor="#fff"
+                android:text="aitsolutions (alpha version 1.0.0)"
+                android:textColor="#000"
                 android:textSize="12sp" />
         </LinearLayout>
 

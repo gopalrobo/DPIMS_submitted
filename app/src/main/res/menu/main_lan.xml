@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_settings"
+        android:icon="@drawable/ic_language_black_24dp"
+        android:orderInCategory="100"
+        android:title="@string/action_settings"
+        app:showAsAction="always">
+        <menu xmlns:android="http://schemas.android.com/apk/res/android"
+            xmlns:app="http://schemas.android.com/apk/res-auto">
+
+             <item
+                android:id="@+id/local_dari"
+                android:title="@string/text_dari" />
+            <item
+                android:id="@+id/local_pashto"
+                android:title="@string/text_pashto" />
+            <item
+                android:id="@+id/local_english"
+                android:title="@string/text_english" />
+
+
+        </menu>
+    </item>
+
+</menu>
